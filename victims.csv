@@ -1,0 +1,501 @@
+Incident_ID,Incident_Date,State,City_Or_County,__Victims_Injured,__Victims_Killed
+2379499,"August 5, 2022",Ohio,Dayton,0,4
+2426627,"September 29, 2022",Texas,McGregor,0,5
+2319567,"June 2, 2022",Texas,Centerville,0,5
+2227058,"February 5, 2022",Texas,Corsicana,0,7
+2432893,"October 7, 2022",Texas,"Fort Worth",0,4
+2361614,"July 16, 2022",Texas,Houston,0,4
+2377338,"August 2, 2022",Florida,Orlando,0,4
+2468162,"November 25, 2022",Georgia,Atlanta,0,0
+2285267,"April 21, 2022",Arkansas,"Mountain View",0,4
+2448366,"October 30, 2022",Colorado,Aurora,0,4
+2452798,"November 4, 2022",Maryland,"La Plata",0,4
+2410446,"September 9, 2022",Maryland,"Elk Mills",0,4
+2313970,"May 27, 2022",Michigan,Stanwood,0,4
+2379020,"August 4, 2022",Nebraska,Laurel,0,4
+2318310,"June 1, 2022",Oklahoma,Tulsa,0,4
+2439284,"October 9, 2022",Oklahoma,Henryetta,0,4
+2447217,"October 27, 2022",Oklahoma,"Broken Arrow",0,7
+2439423,"October 17, 2022",Virginia,Woodbridge,0,4
+2323642,"June 7, 2022",Virginia,Portsmouth,0,4
+2462457,"November 18, 2022",Virginia,Richmond,0,4
+2283535,"April 20, 2022",Minnesota,Duluth,0,4
+2444683,"October 21, 2022",Wisconsin,Hartland,0,4
+2218159,"January 23, 2022",Wisconsin,Milwaukee,0,6
+2243861,"February 28, 2022",California,Sacramento,0,4
+2288842,"April 27, 2022",Mississippi,Biloxi,0,4
+2434247,"October 9, 2022","South Carolina",Inman,0,5
+2452673,"November 4, 2022",Florida,Orlando,1,4
+2475546,"December 6, 2022",Georgia,Macon,1,3
+2478664,"December 11, 2022",Illinois,Chicago,1,3
+2252719,"March 12, 2022",Maryland,Baltimore,1,3
+2215955,"January 19, 2022",Maryland,Baltimore,1,3
+2400026,"August 28, 2022",Michigan,Detroit,1,3
+2321772,"June 5, 2022",Michigan,Saginaw,1,3
+2222557,"January 29, 2022",Missouri,"St. Louis",1,3
+2464943,"November 20, 2022",Oklahoma,Hennessey,1,4
+2217882,"January 23, 2022",California,Inglewood,1,4
+2438482,"October 15, 2022",Pennsylvania,Pittsburgh,1,3
+2445686,"October 25, 2022",Ohio,Hamilton,2,2
+2447980,"October 28, 2022",Ohio,Toledo,2,2
+2251416,"March 11, 2022",Ohio,Columbus,2,2
+2360953,"July 16, 2022",Ohio,Columbus,2,2
+2339761,"June 25, 2022",Texas,Houston,2,2
+2296808,"May 7, 2022",Texas,Garland,2,2
+2467661,"November 24, 2022",Texas,Houston,2,2
+2399755,"August 28, 2022",Texas,Houston,2,3
+2202727,"January 2, 2022",Texas,"San Antonio",2,2
+2202976,"January 2, 2022",Texas,Corsicana,2,2
+2431069,"October 5, 2022",Texas,Baytown,2,4
+2487517,"December 23, 2022",Kansas,Wichita,2,2
+2400434,"August 28, 2022",Oregon,Bend,2,2
+2406042,"September 3, 2022",Alabama,Birmingham,2,2
+2440211,"October 8, 2022",Alabama,Hurtsboro,2,2
+2321440,"June 5, 2022",Arizona,Mesa,2,2
+2255816,"March 17, 2022",Florida,"Fort Lauderdale",2,2
+2465213,"November 22, 2022",Florida,"West Palm Beach",2,2
+2321500,"June 4, 2022",Georgia,Macon,2,2
+2370760,"July 27, 2022",Georgia,Macon,2,2
+2483188,"December 16, 2022",Georgia,Valdosta,2,2
+2406998,"September 5, 2022",Georgia,Hartwell,2,2
+2362011,"July 17, 2022",Indiana,Greenwood,2,3
+2411801,"September 10, 2022",Indiana,Plainfield,2,2
+2263608,"March 25, 2022",Colorado,"Colorado Springs",2,2
+2201677,"January 1, 2022",Colorado,Denver,2,2
+2482288,"December 16, 2022",Illinois,Chicago,2,2
+2443194,"October 23, 2022",Illinois,Chicago,2,3
+2406651,"September 4, 2022",Illinois,Chicago,2,2
+2285772,"April 23, 2022",Illinois,Chicago,2,2
+2202001,"January 1, 2022",Illinois,Peoria,2,2
+2468325,"November 26, 2022",Illinois,Chicago,2,2
+2367157,"July 23, 2022",Illinois,Rockford,2,2
+2259413,"March 21, 2022",Illinois,Chicago,2,2
+2398004,"August 25, 2022",Kentucky,Henderson,2,2
+2236857,"February 18, 2022",Maryland,"Temple Hills (Marlow Heights)",2,2
+2373050,"July 29, 2022",Maryland,Baltimore,2,2
+2324435,"June 7, 2022",Maryland,Baltimore,2,2
+2325498,"June 9, 2022",Maryland,Smithsburg,2,3
+2407734,"September 5, 2022",Missouri,"Kansas City",2,2
+2252500,"March 13, 2022","New York",Rochester,2,2
+2339866,"June 24, 2022",Virginia,Hopewell,2,2
+2391353,"August 18, 2022",Virginia,Norfolk,2,3
+2459150,"November 13, 2022",Virginia,Charlottesville,2,3
+2257316,"March 19, 2022",Virginia,Norfolk,2,3
+2241857,"February 25, 2022",Louisiana,"Baton Rouge",2,2
+2406597,"September 4, 2022",Minnesota,"St. Paul",2,3
+2328108,"June 11, 2022",Tennessee,Antioch,2,2
+2291185,"April 29, 2022",Tennessee,Jackson,2,2
+2417641,"September 18, 2022",Wisconsin,Kenosha,2,2
+2397033,"August 24, 2022",Wisconsin,Milwaukee,2,2
+2448361,"October 30, 2022",California,Covina,2,2
+2355580,"July 10, 2022",California,Downey,2,3
+2280504,"April 15, 2022",California,Stockton,2,2
+2405239,"September 2, 2022",California,Fresno,2,2
+2228510,"February 6, 2022",California,Fresno,2,2
+2428678,"October 1, 2022",California,Oakland,2,2
+2489124,"December 27, 2022",California,Eureka,2,2
+2269745,"April 3, 2022",California,"San Francisco",2,2
+2362562,"July 17, 2022",Washington,Vancouver,2,2
+2238312,"February 20, 2022",Mississippi,Mccomb,2,1
+2315903,"May 30, 2022",Pennsylvania,Philadelphia,2,2
+2396124,"August 23, 2022",Pennsylvania,Philadelphia,2,2
+2338874,"June 24, 2022",Pennsylvania,Philadelphia,2,2
+2436826,"October 13, 2022","North Carolina",Raleigh,2,5
+2237058,"February 19, 2022","North Carolina",Durham,2,2
+2334620,"June 19, 2022","South Carolina",Walterboro,2,2
+2376028,"August 1, 2022",Ohio,Columbus,3,2
+2373607,"July 29, 2022",Ohio,Cleveland,3,1
+2423538,"September 24, 2022",Ohio,Columbus,3,1
+2490925,"December 30, 2022",Texas,Humble,3,2
+2258224,"March 20, 2022",Texas,Houston,3,1
+2302740,"May 15, 2022",Texas,Houston,3,2
+2206813,"January 8, 2022",Texas,Houston,3,1
+2356813,"July 10, 2022",Texas,Alvin,3,1
+2368308,"July 24, 2022",Texas,"Fort Worth",3,1
+2256453,"March 18, 2022",Texas,"Fort Worth",3,1
+2299176,"May 10, 2022",Texas,Brookshire,3,1
+2438904,"October 16, 2022",Texas,"El Paso",3,1
+2340473,"June 26, 2022",Texas,"San Antonio",3,1
+2281541,"April 17, 2022",Oregon,Portland,3,1
+2238403,"February 20, 2022",Oregon,Portland,3,1
+2287581,"April 25, 2022",Alabama,Birmingham,3,1
+2253654,"March 12, 2022",Alabama,Autaugaville,3,1
+2290026,"April 28, 2022",Alabama,Bessemer,3,1
+2398118,"August 25, 2022",Alabama,Birmingham,3,1
+2247747,"March 5, 2022",Arizona,Glendale,3,1
+2478061,"December 9, 2022",Arizona,Phoenix,3,1
+2434128,"October 9, 2022",Florida,Miami,3,1
+2222953,"January 30, 2022",Florida,"Winter Haven",3,1
+2307631,"May 20, 2022",Florida,Kissimmee,3,1
+2281483,"April 17, 2022",Florida,Miami,3,1
+2235366,"February 16, 2022",Florida,Miami,3,1
+2213456,"January 16, 2022",Georgia,Savannah,3,1
+2297261,"May 8, 2022",Georgia,Clarkston,3,3
+2222383,"January 29, 2022",Georgia,Atlanta,3,1
+2327247,"June 10, 2022",Georgia,Decatur,3,1
+2419473,"September 19, 2022",Georgia,Swainsboro,3,1
+2223019,"January 30, 2022",Georgia,Augusta,3,1
+2423331,"September 24, 2022",Georgia,Louisville,3,1
+2483489,"December 17, 2022",Georgia,Atlanta,3,2
+2423338,"September 25, 2022",Indiana,Hammond,3,1
+2358861,"July 13, 2022",Indiana,Indianapolis,3,1
+2362215,"July 17, 2022",Indiana,"Beech Grove",3,1
+2286061,"April 24, 2022",Indiana,Lafayette,3,2
+2308096,"May 21, 2022",Indiana,Goshen,3,1
+2232476,"February 12, 2022",Arkansas,"Little Rock",3,1
+2434326,"October 9, 2022",Arkansas,Jacksonville,3,1
+2300713,"May 12, 2022",Arkansas,"Hot Springs National Park (Hot Springs)",3,1
+2349545,"July 4, 2022",Colorado,Denver,3,1
+2250540,"March 9, 2022",Colorado,Aurora,3,1
+2207406,"January 9, 2022",Colorado,"Colorado Springs",3,2
+2315190,"May 28, 2022",Colorado,"Colorado Springs",3,1
+2399670,"August 28, 2022",Colorado,Denver,3,1
+2345410,"July 1, 2022",Illinois,Chicago,3,2
+2234868,"February 15, 2022",Illinois,Joliet,3,1
+2315892,"May 29, 2022",Illinois,Chicago,3,1
+2443849,"October 24, 2022",Illinois,Chicago,3,1
+2338902,"June 23, 2022",Illinois,Chicago,3,1
+2464352,"November 19, 2022",Illinois,"Washington Park",3,1
+2453865,"November 6, 2022",Illinois,Chicago,3,1
+2450557,"October 31, 2022",Illinois,"East St. Louis",3,2
+2374990,"July 31, 2022",Illinois,Decatur,3,1
+2296191,"May 7, 2022",Kentucky,Lexington,3,2
+2245620,"March 2, 2022",Maryland,Baltimore,3,1
+2405859,"September 3, 2022",Maryland,"Capitol Heights",3,1
+2298591,"May 10, 2022",Maryland,Baltimore,3,1
+2386878,"August 14, 2022",Maryland,Baltimore,3,1
+2280495,"April 16, 2022",Maryland,Baltimore,3,1
+2420637,"September 20, 2022",Michigan,Niles,3,2
+2334936,"June 19, 2022",Michigan,Detroit,3,1
+2321693,"June 5, 2022",Michigan,"Grand Rapids",3,1
+2407739,"September 5, 2022",Missouri,"St. Louis",3,1
+2299793,"May 11, 2022",Missouri,"St. Louis",3,1
+2385846,"August 12, 2022",Missouri,"St. Louis",3,1
+2320862,"June 3, 2022",Nebraska,Omaha,3,1
+2417634,"September 18, 2022","New York","Corona (Queens)",3,1
+2347228,"July 2, 2022","New York","Corona (Queens)",3,1
+2301751,"May 14, 2022","New York",Buffalo,3,10
+2210480,"January 13, 2022","New York",Brooklyn,3,1
+2489614,"December 28, 2022","New York",Bronx,3,1
+2349723,"July 5, 2022","New York",Rochester,3,1
+2321698,"June 4, 2022","New York",Hempstead,3,1
+2277011,"April 12, 2022","New York",Bronx,3,1
+2427775,"September 30, 2022",Oklahoma,Tulsa,3,1
+2269034,"April 2, 2022",Louisiana,Shreveport,3,1
+2371416,"July 27, 2022",Louisiana,Hahnville,3,1
+2307813,"May 20, 2022",Louisiana,"New Orleans",3,1
+2442632,"October 21, 2022",Louisiana,"New Orleans",3,1
+2289308,"April 27, 2022",Louisiana,Opelousas,3,2
+2373924,"July 30, 2022",Louisiana,Monroe,3,1
+2238575,"February 21, 2022",Minnesota,"St. Paul",3,1
+2247617,"March 6, 2022",Minnesota,Minneapolis,3,1
+2411901,"September 9, 2022",Minnesota,Minneapolis,3,1
+2448898,"October 30, 2022",Tennessee,Memphis,3,1
+2378851,"August 4, 2022",Tennessee,Nashville,3,1
+2393758,"August 21, 2022",Tennessee,Memphis,3,1
+2408990,"September 7, 2022",Tennessee,Memphis,3,3
+2491054,"December 30, 2022",Tennessee,Memphis,3,1
+2201641,"January 1, 2022",Wisconsin,Kenosha,3,1
+2315338,"May 28, 2022",California,Fresno,3,1
+2433352,"October 8, 2022",California,Berkeley,3,1
+2459259,"November 12, 2022",California,Indio,3,1
+2264094,"March 26, 2022",California,Hollister,3,2
+2305208,"May 17, 2022",California,"Palo Alto (East Palo Alto)",3,1
+2260129,"March 22, 2022",California,Stockton,3,1
+2315333,"May 28, 2022",California,Merced,3,1
+2484083,"December 18, 2022",California,"Santa Ana",3,1
+2434847,"October 10, 2022",California,Delano,3,1
+2281164,"April 17, 2022",California,Sacramento,3,1
+2375725,"August 1, 2022",California,Paramount,3,1
+2256080,"March 16, 2022","New Jersey",Irvington,3,1
+2255832,"March 16, 2022","New Jersey",Irvington,3,1
+2227187,"February 5, 2022","New Mexico","Las Cruces",3,1
+2399000,"August 27, 2022",Washington,Spokane,3,1
+2270578,"April 4, 2022",Connecticut,Hartford,3,1
+2450590,"October 21, 2022",Mississippi,Cleveland,3,1
+2383958,"August 10, 2022",Mississippi,Winona,3,1
+2451550,"November 2, 2022",Mississippi,Hattiesburg,3,2
+2205024,"January 4, 2022",Mississippi,Jackson,3,1
+2487989,"December 24, 2022",Mississippi,Columbus,3,1
+2253714,"March 14, 2022",Pennsylvania,Reading,3,1
+2381371,"August 7, 2022",Pennsylvania,Pittsburgh,3,1
+2385789,"August 12, 2022",Pennsylvania,Philadelphia,3,1
+2268723,"April 2, 2022","North Carolina",Shelby,3,1
+2258012,"March 19, 2022","North Carolina",Fayetteville,3,3
+2412487,"September 11, 2022","North Carolina",Durham,3,1
+2224013,"January 31, 2022","North Carolina",Raleigh,3,1
+2286363,"April 24, 2022","South Carolina","Myrtle Beach",3,1
+2247622,"March 6, 2022","South Carolina",Chester,3,2
+2242345,"February 26, 2022","South Carolina","North Charleston",3,1
+2292613,"May 1, 2022","South Carolina","North Charleston",3,1
+2368110,"July 24, 2022","South Carolina",Bennettsville,3,1
+2431594,"October 6, 2022","District of Columbia",Washington,3,1
+2396536,"August 24, 2022","District of Columbia",Washington,3,2
+2361532,"July 16, 2022","District of Columbia",Washington,3,1
+2334920,"June 19, 2022","District of Columbia",Washington,3,1
+2238165,"February 20, 2022",Iowa,"Des Moines",4,0
+2393474,"August 20, 2022",Delaware,Wilmington,4,0
+2291578,"May 1, 2022",Ohio,Springfield,4,1
+2265029,"March 26, 2022",Ohio,Cleveland,4,0
+2285242,"April 22, 2022",Ohio,Cincinnati,4,0
+2352342,"July 5, 2022",Ohio,Steubenville,4,0
+2388144,"August 13, 2022",Ohio,Cleveland,4,1
+2347060,"July 2, 2022",Texas,"Haltom City",4,2
+2258156,"March 20, 2022",Texas,Austin,4,0
+2455710,"November 7, 2022",Texas,"Mcallen (McAllen)",4,0
+2247828,"March 6, 2022",Texas,Lubbock,4,0
+2303337,"May 15, 2022",Texas,Amarillo,4,1
+2451028,"November 2, 2022",Texas,Houston,4,0
+2464272,"November 20, 2022",Texas,Dallas,4,0
+2472924,"December 1, 2022",Texas,"San Antonio",4,0
+2459005,"November 12, 2022",Texas,"Fort Worth",4,0
+2214306,"January 17, 2022",Texas,"San Antonio",4,1
+2241299,"February 24, 2022",Texas,"San Antonio",4,0
+2367664,"July 23, 2022",Texas,"El Paso",4,0
+2318046,"May 31, 2022",Texas,Waco,4,0
+2316364,"May 29, 2022",Texas,Houston,4,0
+2294515,"May 3, 2022",Kansas,"Cowley (county)",4,0
+2281244,"April 16, 2022",Nevada,"North Las Vegas",4,0
+2432772,"October 7, 2022",Oregon,Portland,4,0
+2426382,"September 28, 2022",Alabama,Uniontown,4,0
+2355962,"July 9, 2022",Alabama,"Jacksons Gap",4,0
+2468642,"November 26, 2022",Alabama,Mobile,4,0
+2381000,"August 7, 2022",Alabama,Birmingham,4,1
+2386954,"August 14, 2022",Arizona,Phoenix,4,1
+2289382,"April 27, 2022",Arizona,Phoenix,4,0
+2325328,"June 8, 2022",Arizona,Yuma,4,0
+2348303,"July 3, 2022",Arizona,Surprise,4,2
+2296224,"May 7, 2022",Florida,Miami,4,0
+2352780,"July 6, 2022",Florida,Tampa,4,0
+2227759,"February 6, 2022",Florida,"Fort Lauderdale",4,0
+2315417,"May 28, 2022",Florida,Malabar,4,0
+2373111,"July 29, 2022",Florida,Miami,4,0
+2455484,"November 6, 2022",Florida,Gainesville,4,0
+2425839,"September 27, 2022",Florida,Jacksonville,4,0
+2214013,"January 18, 2022",Florida,Miami,4,0
+2469354,"November 27, 2022",Florida,Tallahassee,4,1
+2250151,"March 8, 2022",Florida,Jacksonville,4,1
+2406656,"September 4, 2022",Florida,"Fort Lauderdale (Lauderdale Lakes)",4,0
+2274296,"April 9, 2022",Florida,Miami,4,0
+2373859,"July 30, 2022",Georgia,Girard,4,1
+2387010,"August 13, 2022",Georgia,"Atlanta (College Park)",4,1
+2291618,"April 30, 2022",Georgia,Atlanta,4,0
+2247025,"March 5, 2022",Georgia,Atlanta,4,0
+2468745,"November 26, 2022",Georgia,Atlanta,4,2
+2381321,"August 7, 2022",Georgia,Atlanta,4,2
+2438505,"October 16, 2022",Georgia,Atlanta,4,0
+2443287,"October 22, 2022",Georgia,Cordele,4,0
+2328265,"June 12, 2022",Indiana,Gary,4,2
+2374750,"July 31, 2022",Indiana,"South Bend",4,0
+2374401,"July 31, 2022",Indiana,Indianapolis,4,0
+2201848,"January 1, 2022",Indiana,"South Bend",4,0
+2328215,"June 12, 2022",Indiana,Indianapolis,4,0
+2328342,"June 12, 2022",Colorado,Denver,4,2
+2269059,"April 2, 2022",Colorado,"Colorado Springs",4,0
+2209840,"January 12, 2022",Illinois,Chicago,4,0
+2368018,"July 23, 2022",Illinois,Chicago,4,0
+2405866,"September 3, 2022",Illinois,Yorkville,4,0
+2256398,"March 17, 2022",Illinois,Chicago,4,0
+2274803,"April 10, 2022",Illinois,Elgin,4,2
+2359843,"July 14, 2022",Illinois,Chicago,4,0
+2386871,"August 14, 2022",Illinois,Chicago,4,1
+2396803,"August 24, 2022",Illinois,Chicago,4,0
+2391779,"August 19, 2022",Illinois,Chicago,4,0
+2421430,"September 22, 2022",Illinois,Chicago,4,0
+2298836,"May 10, 2022",Illinois,Chicago,4,1
+2352444,"July 6, 2022",Illinois,Chicago,4,0
+2299660,"May 11, 2022",Illinois,Chicago,4,0
+2346422,"July 1, 2022",Illinois,Chicago,4,0
+2324496,"June 7, 2022",Illinois,Chicago,4,0
+2392494,"August 19, 2022",Illinois,Chicago,4,1
+2353847,"July 7, 2022",Illinois,Chicago,4,0
+2390519,"August 17, 2022",Illinois,Chicago,4,0
+2367176,"July 23, 2022",Illinois,Chicago,4,0
+2288928,"April 27, 2022",Illinois,Chicago,4,0
+2355438,"July 10, 2022",Illinois,Chicago,4,0
+2356705,"July 10, 2022",Illinois,"Crest Hill",4,1
+2452501,"November 3, 2022",Illinois,Chicago,4,0
+2324475,"June 7, 2022",Illinois,Chicago,4,0
+2327645,"June 11, 2022",Illinois,Chicago,4,1
+2411871,"September 10, 2022",Kentucky,Lexington,4,0
+2431842,"October 6, 2022",Kentucky,Louisville,4,0
+2270747,"April 4, 2022",Kentucky,Covington,4,0
+2247842,"March 6, 2022",Kentucky,Louisville,4,0
+2334096,"June 17, 2022",Maryland,Baltimore,4,0
+2425799,"September 28, 2022",Maryland,Baltimore,4,0
+2466835,"November 23, 2022",Maryland,"Temple Hills",4,0
+2450917,"November 1, 2022",Maryland,Baltimore,4,0
+2328532,"June 12, 2022",Michigan,Roseville,4,0
+2380361,"August 6, 2022",Michigan,Detroit,4,1
+2417696,"September 18, 2022",Michigan,Allendale,4,0
+2412198,"September 11, 2022",Michigan,Detroit,4,0
+2327598,"June 11, 2022",Michigan,Detroit,4,0
+2321193,"June 4, 2022",Michigan,Ecorse,4,0
+2354825,"July 8, 2022",Michigan,Detroit,4,0
+2412289,"September 11, 2022",Michigan,"Grand Rapids",4,0
+2477622,"December 8, 2022",Michigan,Detroit,4,0
+2361849,"July 17, 2022",Michigan,Detroit,4,0
+2334374,"June 19, 2022",Michigan,"Grand Rapids",4,0
+2297823,"May 9, 2022",Michigan,Detroit,4,0
+2361609,"July 17, 2022",Michigan,"Grand Rapids",4,0
+2398608,"August 16, 2022",Michigan,"Paw Paw",4,0
+2257132,"March 17, 2022",Michigan,Lansing,4,0
+2400998,"August 29, 2022",Missouri,"St. Louis (Jennings)",4,0
+2231921,"February 11, 2022",Missouri,Springfield,4,0
+2443879,"October 24, 2022",Missouri,"St. Louis",4,2
+2434151,"October 8, 2022",Missouri,"St. Joseph",4,0
+2348750,"July 4, 2022",Missouri,"Kansas City",4,0
+2202025,"January 1, 2022",Missouri,Columbia,4,0
+2238657,"February 20, 2022",Nebraska,Omaha,4,0
+2363589,"July 19, 2022",Nebraska,Lincoln,4,0
+2454281,"November 5, 2022","New York",Buffalo,4,0
+2362141,"July 17, 2022","New York",Brooklyn,4,0
+2399576,"August 27, 2022","New York",Brooklyn,4,1
+2420406,"September 20, 2022","New York","Mount Vernon",4,0
+2438494,"October 15, 2022","New York",Freeport,4,0
+2480430,"December 13, 2022","New York",Rochester,4,1
+2425393,"September 27, 2022","New York","Corona (Queens)",4,0
+2426137,"September 27, 2022","New York","New York (Manhattan)",4,0
+2280017,"April 16, 2022","New York",Syracuse,4,1
+2349758,"July 4, 2022","New York","Corona (Queens)",4,0
+2411007,"September 9, 2022","New York",Bronx,4,0
+2404930,"September 2, 2022","New York",Brooklyn,4,0
+2340297,"June 25, 2022","New York",Brooklyn,4,0
+2269429,"April 3, 2022","New York",Buffalo,4,0
+2479678,"December 12, 2022","New York",Bronx,4,0
+2475554,"December 6, 2022","New York",Bronx,4,0
+2483594,"December 18, 2022",Oklahoma,"Oklahoma City",4,0
+2413596,"September 12, 2022",Oklahoma,"Oklahoma City",4,0
+2382827,"August 8, 2022",Virginia,Richmond,4,0
+2257674,"March 19, 2022",Virginia,"Madison Heights",4,1
+2348191,"July 3, 2022",Virginia,Manassas,4,0
+2227035,"February 4, 2022",Virginia,Blacksburg,4,1
+2379316,"August 5, 2022",Virginia,Norfolk,4,0
+2328117,"June 12, 2022",Louisiana,"New Orleans",4,0
+2268762,"April 2, 2022",Louisiana,Monroe,4,1
+2215256,"January 19, 2022",Louisiana,"New Orleans",4,0
+2488209,"December 26, 2022",Louisiana,"New Orleans",4,2
+2248613,"March 6, 2022",Louisiana,Monroe,4,0
+2369720,"July 25, 2022",Louisiana,"New Orleans",4,0
+2477404,"December 8, 2022",Louisiana,"New Orleans",4,0
+2275242,"April 10, 2022",Louisiana,"Baton Rouge",4,0
+2243285,"February 27, 2022",Louisiana,Alexandria,4,0
+2296037,"May 6, 2022",Louisiana,"New Orleans",4,2
+2352349,"July 6, 2022",Minnesota,"St. Cloud",4,0
+2358856,"July 13, 2022",Minnesota,Minneapolis,4,0
+2405020,"September 2, 2022",Minnesota,Minneapolis,4,0
+2410704,"September 8, 2022",Minnesota,Minneapolis,4,0
+2340347,"June 25, 2022",Minnesota,Minneapolis,4,0
+2232351,"February 12, 2022",Tennessee,Murfreesboro,4,1
+2212203,"January 15, 2022",Tennessee,Knoxville,4,0
+2459156,"November 12, 2022",Tennessee,Memphis,4,0
+2428950,"October 2, 2022",Tennessee,Nashville,4,0
+2249608,"March 7, 2022",Tennessee,Knoxville,4,0
+2314951,"May 28, 2022",Tennessee,Memphis,4,0
+2399774,"August 28, 2022",Wisconsin,Clinton,4,0
+2443276,"October 23, 2022",Wisconsin,Milwaukee,4,0
+2414276,"September 14, 2022",Wisconsin,Milwaukee,4,0
+2416625,"September 16, 2022",Wisconsin,Milwaukee,4,0
+2258324,"March 20, 2022",Wisconsin,Milwaukee,4,0
+2380017,"August 5, 2022",Wisconsin,Milwaukee,4,0
+2349746,"July 4, 2022",Wisconsin,Kenosha,4,1
+2348230,"July 4, 2022",California,Sacramento,4,1
+2207435,"January 9, 2022",California,Fresno,4,0
+2328374,"June 12, 2022",California,"Los Angeles",4,3
+2286089,"April 23, 2022",California,"San Bernardino",4,1
+2415479,"September 13, 2022",California,Oakland,4,0
+2333154,"June 16, 2022",California,Oakland,4,1
+2222766,"January 29, 2022",California,Bakersfield,4,0
+2424602,"September 23, 2022",California,Castroville,4,0
+2439294,"October 16, 2022",California,Lancaster,4,0
+2414858,"September 14, 2022",California,"Los Angeles",4,0
+2207931,"January 9, 2022",California,"Los Angeles",4,1
+2410269,"September 8, 2022",California,"Los Angeles",4,0
+2225493,"February 2, 2022",California,Oroville,4,1
+2467743,"November 24, 2022",California,"Costa Mesa",4,1
+2232287,"February 12, 2022",California,"West Hollywood",4,0
+2377855,"August 3, 2022",California,"Panorama City",4,1
+2458933,"November 12, 2022",California,Sacramento,4,0
+2362282,"July 17, 2022","New Jersey",Newark,4,0
+2344008,"June 29, 2022","New Jersey","Jersey City",4,0
+2458086,"November 11, 2022","New Jersey","Jersey City",4,0
+2300830,"May 11, 2022","New Jersey",Paterson,4,1
+2458467,"November 12, 2022","New Jersey",Paterson,4,0
+2373646,"July 29, 2022","New Mexico",Albuquerque,4,1
+2360288,"June 11, 2022","New Mexico",Alamogordo,4,0
+2308395,"May 21, 2022",Washington,Tacoma,4,0
+2386151,"August 13, 2022",Washington,Renton,4,0
+2428715,"October 2, 2022",Washington,Seattle,4,0
+2348263,"July 3, 2022",Washington,Tacoma,4,0
+2397504,"August 25, 2022",Washington,Spokane,4,0
+2375097,"July 31, 2022",Connecticut,Hartford,4,0
+2259262,"March 21, 2022",Connecticut,Waterbury,4,0
+2358053,"July 11, 2022",Mississippi,Jackson,4,0
+2291534,"April 29, 2022",Mississippi,Laurel,4,0
+2272394,"April 6, 2022",Pennsylvania,Philadelphia,4,0
+2358938,"July 13, 2022",Pennsylvania,Philadelphia,4,0
+2359229,"July 14, 2022",Pennsylvania,Philadelphia,4,0
+2458727,"November 13, 2022",Pennsylvania,Philadelphia,4,0
+2380783,"August 6, 2022",Pennsylvania,Duquesne,4,0
+2298519,"May 10, 2022",Pennsylvania,Philadelphia,4,0
+2344201,"June 29, 2022",Pennsylvania,Philadelphia,4,0
+2427999,"October 1, 2022",Pennsylvania,Philadelphia,4,0
+2391042,"August 17, 2022",Pennsylvania,Philadelphia,4,0
+2466431,"November 23, 2022",Pennsylvania,Philadelphia,4,0
+2281171,"April 17, 2022",Pennsylvania,Philadelphia,4,0
+2312678,"May 25, 2022",Pennsylvania,Philadelphia,4,0
+2437284,"October 14, 2022",Pennsylvania,Philadelphia,4,0
+2201629,"January 1, 2022",Pennsylvania,Philadelphia,4,1
+2423747,"September 25, 2022",Pennsylvania,Harrisburg,4,0
+2248066,"March 6, 2022",Pennsylvania,Hazleton,4,1
+2406852,"September 5, 2022",Pennsylvania,Philadelphia,4,2
+2361490,"July 16, 2022",Pennsylvania,Philadelphia,4,0
+2236155,"February 17, 2022",Pennsylvania,Philadelphia,4,0
+2425199,"September 27, 2022",Pennsylvania,Philadelphia,4,1
+2348163,"July 4, 2022",Massachusetts,Boston,4,0
+2358329,"July 12, 2022",Massachusetts,Boston,4,0
+2354111,"July 8, 2022","North Carolina",Greensboro,4,0
+2426061,"September 27, 2022","North Carolina",Goldsboro,4,0
+2393051,"August 20, 2022","North Carolina",Asheville,4,0
+2445939,"October 25, 2022","North Carolina",Greensboro,4,2
+2304029,"May 15, 2022","North Carolina","Elizabeth City",4,0
+2285612,"April 23, 2022","North Carolina","Rocky Mount",4,0
+2367289,"July 23, 2022","North Carolina",Pinebluff,4,1
+2228660,"February 6, 2022","North Carolina",Wilmington,4,0
+2437177,"October 13, 2022","North Carolina","New Bern",4,0
+2269259,"April 1, 2022","South Carolina",Walterboro,4,0
+2361097,"July 16, 2022","South Carolina","North Charleston",4,0
+2448372,"October 30, 2022","South Carolina",Charleston,4,0
+2347373,"July 3, 2022","South Carolina",Mullins,4,0
+2252792,"March 13, 2022","South Carolina",Columbia,4,1
+2488952,"December 27, 2022","District of Columbia",Washington,4,0
+2274855,"April 9, 2022","District of Columbia",Washington,4,0
+2284819,"April 22, 2022","District of Columbia",Washington,4,0
+2220985,"January 27, 2022","District of Columbia",Washington,4,1
+2311123,"May 23, 2022",Ohio,Cleveland,5,0
+2425825,"September 28, 2022",Ohio,Columbus,5,0
+2489345,"December 27, 2022",Ohio,Columbus,5,0
+2441540,"October 20, 2022",Ohio,Cleveland,5,0
+2434062,"October 9, 2022",Texas,Beaumont,5,0
+2294477,"May 3, 2022",Texas,Beaumont,5,0
+2483108,"December 16, 2022",Texas,Dallas,5,0
+2235778,"February 17, 2022",Texas,Houston,5,0
+2443627,"October 23, 2022",Texas,Brownsville,5,0
+2289610,"April 27, 2022",Texas,"San Antonio",5,0
+2340696,"June 26, 2022",Texas,Winona,5,0
+2320673,"June 4, 2022",Texas,"El Paso (Socorro)",5,0
+2334359,"June 18, 2022",Texas,"San Antonio",5,2
+2417863,"September 18, 2022",Nevada,"Las Vegas",5,0
+2237697,"February 19, 2022",Oregon,Portland,5,1
+2298092,"May 9, 2022",Alabama,Tuscaloosa,5,0
+2254579,"March 15, 2022",Alabama,Ozark,5,0
+2400492,"August 28, 2022",Arizona,Phoenix,5,2
+2315605,"May 29, 2022",Arizona,Phoenix,5,1
+2334512,"June 19, 2022",Florida,Miami,5,0
+2377529,"August 3, 2022",Florida,Miami,5,0
+2485011,"December 19, 2022",Florida,"Lake City",5,0
+2415614,"September 14, 2022",Florida,"Miami (North Miami)",5,0
+2333675,"June 18, 2022",Florida,Pensacola,5,0
+2361654,"July 17, 2022",Georgia,Milledgeville,5,0
+2285860,"April 23, 2022",Georgia,Atlanta,5,0
+2212018,"January 15, 2022",Georgia,Brunswick,5,1

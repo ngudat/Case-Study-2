@@ -1,0 +1,501 @@
+city,city_ascii,state_id,state_name,county_fips,county_name,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+Bethel,Bethel,AK,Alaska,2050,Bethel,60.7928,-161.7917,6273,56.8,shape,FALSE,TRUE,America/Anchorage,3,99559 99545,1840023353
+Tuntutuliak,Tuntutuliak,AK,Alaska,2050,Bethel,60.3843,-162.6838,1072,2.8,shape,FALSE,FALSE,America/Nome,3,99680,1840023349
+Nunapitchuk,Nunapitchuk,AK,Alaska,2050,Bethel,60.8772,-162.4615,999,52.7,shape,FALSE,TRUE,America/Nome,3,99641,1840023364
+Quinhagak,Quinhagak,AK,Alaska,2050,Bethel,59.7511,-161.8992,989,80.6,shape,FALSE,TRUE,America/Anchorage,3,99655,1840023366
+Toksook Bay,Toksook Bay,AK,Alaska,2050,Bethel,60.5333,-165.1557,874,11.6,shape,FALSE,TRUE,America/Nome,3,99637,1840023342
+Eek,Eek,AK,Alaska,2050,Bethel,60.2164,-162.0331,624,327.9,shape,FALSE,TRUE,America/Nome,3,99578,1840023356
+Aniak,Aniak,AK,Alaska,2050,Bethel,61.5817,-159.5451,564,34.8,shape,FALSE,TRUE,America/Anchorage,3,99557,1840023352
+Napakiak,Napakiak,AK,Alaska,2050,Bethel,60.6923,-161.9822,557,113.8,shape,FALSE,TRUE,America/Anchorage,3,99634,1840023361
+Napaskiak,Napaskiak,AK,Alaska,2050,Bethel,60.7018,-161.7616,517,71.5,shape,FALSE,TRUE,America/Anchorage,3,99559,1840023362
+Kwigillingok,Kwigillingok,AK,Alaska,2050,Bethel,59.8767,-163.1715,470,6.9,shape,FALSE,FALSE,America/Nome,3,99622,1840023336
+Kongiganak,Kongiganak,AK,Alaska,2050,Bethel,59.9858,-162.8544,470,13.9,shape,FALSE,FALSE,America/Nome,3,99559,1840023335
+Akiachak,Akiachak,AK,Alaska,2050,Bethel,60.921,-161.4021,469,25.4,shape,FALSE,FALSE,America/Anchorage,3,99551,1840023339
+Kipnuk,Kipnuk,AK,Alaska,2050,Bethel,59.9373,-164.0616,467,6.9,shape,FALSE,FALSE,America/Nome,3,99614,1840023334
+Kasigluk,Kasigluk,AK,Alaska,2050,Bethel,60.8785,-162.5272,448,13.5,shape,FALSE,FALSE,America/Nome,3,99609,1840023333
+Kwethluk,Kwethluk,AK,Alaska,2050,Bethel,60.7978,-161.4147,425,17.4,shape,FALSE,TRUE,America/Anchorage,3,99621,1840023358
+Chefornak,Chefornak,AK,Alaska,2050,Bethel,60.155,-164.255,375,30.5,shape,FALSE,TRUE,America/Nome,3,99561,1840023354
+Mekoryuk,Mekoryuk,AK,Alaska,2050,Bethel,60.3704,-166.267,327,14.3,shape,FALSE,TRUE,America/Nome,3,99630,1840023360
+Tununak,Tununak,AK,Alaska,2050,Bethel,60.579,-165.2077,309,2.1,shape,FALSE,FALSE,America/Nome,3,99681,1840023350
+Lower Kalskag,Lower Kalskag,AK,Alaska,2050,Bethel,61.5163,-160.3556,304,90.9,shape,FALSE,TRUE,America/Anchorage,3,99626,1840023359
+Akiak,Akiak,AK,Alaska,2050,Bethel,60.9061,-161.2122,293,60.9,shape,FALSE,TRUE,America/Anchorage,3,99552,1840023351
+Tuluksak,Tuluksak,AK,Alaska,2050,Bethel,61.105,-160.9493,278,35.5,shape,FALSE,FALSE,America/Anchorage,3,99679,1840023348
+Upper Kalskag,Upper Kalskag,AK,Alaska,2050,Bethel,61.5416,-160.3337,225,26,shape,FALSE,FALSE,America/Anchorage,4,99607,1840023556
+Newtok,Newtok,AK,Alaska,2050,Bethel,60.9341,-164.6386,181,64.3,shape,FALSE,FALSE,America/Nome,3,99559,1840023338
+Atmautluak,Atmautluak,AK,Alaska,2050,Bethel,60.8622,-162.2858,147,91.3,shape,FALSE,FALSE,America/Nome,3,99559,1840023340
+Nightmute,Nightmute,AK,Alaska,2050,Bethel,60.4874,-164.8195,145,0.1,shape,FALSE,TRUE,America/Nome,3,99690,1840023363
+Oscarville,Oscarville,AK,Alaska,2050,Bethel,60.7288,-161.7728,114,14.1,shape,FALSE,FALSE,America/Anchorage,3,99559,1840023344
+Chuathbaluk,Chuathbaluk,AK,Alaska,2050,Bethel,61.5746,-159.2489,93,7.7,shape,FALSE,TRUE,America/Anchorage,3,99557,1840023355
+Sleetmute,Sleetmute,AK,Alaska,2050,Bethel,61.6516,-157.1251,81,0,shape,FALSE,FALSE,America/Anchorage,3,99668,1840023346
+Goodnews Bay,Goodnews Bay,AK,Alaska,2050,Bethel,59.1271,-161.5753,73,14.7,shape,FALSE,TRUE,America/Anchorage,3,99589,1840023357
+Crooked Creek,Crooked Creek,AK,Alaska,2050,Bethel,61.8439,-158.1082,65,0,shape,FALSE,FALSE,America/Anchorage,3,99575,1840023341
+Stony River,Stony River,AK,Alaska,2050,Bethel,61.7937,-156.5861,34,4.8,shape,FALSE,FALSE,America/Anchorage,3,99557,1840023347
+Lime Village,Lime Village,AK,Alaska,2050,Bethel,61.327,-155.3181,16,0,shape,FALSE,FALSE,America/Anchorage,3,99557,1840023337
+Platinum,Platinum,AK,Alaska,2050,Bethel,58.978,-161.7185,8,0,shape,FALSE,TRUE,America/Anchorage,3,99651,1840000307
+Red Devil,Red Devil,AK,Alaska,2050,Bethel,61.7735,-157.3461,4,0,shape,FALSE,FALSE,America/Anchorage,3,99656,1840023345
+Mertarvik,Mertarvik,AK,Alaska,2050,Bethel,60.811,-164.4989,0,0,shape,FALSE,TRUE,America/Nome,5,99559,1840075197
+King Salmon,King Salmon,AK,Alaska,2060,Bristol Bay,58.753,-156.5061,399,0.1,shape,FALSE,FALSE,America/Anchorage,3,99613,1840023272
+Naknek,Naknek,AK,Alaska,2060,Bristol Bay,58.7847,-156.8966,394,1.8,shape,FALSE,FALSE,America/Anchorage,3,99633,1840023273
+South Naknek,South Naknek,AK,Alaska,2060,Bristol Bay,58.6637,-156.9908,56,0.1,shape,FALSE,FALSE,America/Anchorage,3,99670,1840023274
+Valdez,Valdez,AK,Alaska,2063,Chugach,61.0963,-146.2596,3966,7,shape,FALSE,TRUE,America/Anchorage,3,99686,1840023396
+Cordova,Cordova,AK,Alaska,2063,Chugach,60.5347,-145.6087,2588,14.1,shape,FALSE,TRUE,America/Anchorage,3,99574,1840023402
+Whittier,Whittier,AK,Alaska,2063,Chugach,60.7852,-148.6455,316,8,shape,FALSE,TRUE,America/Anchorage,3,99693,1840023397
+Chenega,Chenega,AK,Alaska,2063,Chugach,60.0757,-148.0194,55,0.6,shape,FALSE,FALSE,America/Anchorage,3,99574,1840137228
+Tatitlek,Tatitlek,AK,Alaska,2063,Chugach,60.8921,-146.6727,34,2.2,shape,FALSE,FALSE,America/Anchorage,3,99677,1840023400
+Tazlina,Tazlina,AK,Alaska,2066,Copper River,62.0536,-145.4363,445,28.6,shape,FALSE,FALSE,America/Anchorage,3,99588 99573,1840023588
+Glennallen,Glennallen,AK,Alaska,2066,Copper River,62.1278,-145.7693,438,1.8,shape,FALSE,FALSE,America/Anchorage,3,99588,1840023387
+Copper Center,Copper Center,AK,Alaska,2066,Copper River,61.9845,-145.3544,345,8.7,shape,FALSE,FALSE,America/Anchorage,3,99573,1840023395
+Nelchina,Nelchina,AK,Alaska,2066,Copper River,61.9989,-146.8111,198,1.9,shape,FALSE,FALSE,America/Anchorage,3,99588,1840023658
+Mentasta Lake,Mentasta Lake,AK,Alaska,2066,Copper River,62.9867,-143.5191,181,0,shape,FALSE,FALSE,America/Anchorage,3,99780 99586,1840023391
+Willow Creek,Willow Creek,AK,Alaska,2066,Copper River,61.8336,-145.1836,158,0,shape,FALSE,FALSE,America/Anchorage,3,99573,1840023597
+Gakona,Gakona,AK,Alaska,2066,Copper River,62.3609,-145.2657,140,1.3,shape,FALSE,FALSE,America/Anchorage,3,99586,1840023386
+Kenny Lake,Kenny Lake,AK,Alaska,2066,Copper River,61.6644,-144.8662,138,0,shape,FALSE,FALSE,America/Anchorage,3,99573,1840023389
+Silver Springs,Silver Springs,AK,Alaska,2066,Copper River,62.0193,-145.3584,134,25.8,shape,FALSE,TRUE,America/Anchorage,4,99573,1840075105
+Mendeltna,Mendeltna,AK,Alaska,2066,Copper River,62.1359,-146.5388,118,0,shape,FALSE,FALSE,America/Anchorage,3,99588,1840023682
+Slana,Slana,AK,Alaska,2066,Copper River,62.6294,-143.567,85,0,shape,FALSE,FALSE,America/Anchorage,3,99586,1840023399
+Chitina,Chitina,AK,Alaska,2066,Copper River,61.5276,-144.2991,81,0,shape,FALSE,FALSE,America/Anchorage,3,99566,1840023394
+Gulkana,Gulkana,AK,Alaska,2066,Copper River,62.2155,-145.4449,67,0,shape,FALSE,FALSE,America/Anchorage,3,99588,1840023388
+Chistochina,Chistochina,AK,Alaska,2066,Copper River,62.5921,-144.8136,42,0,shape,FALSE,FALSE,America/Anchorage,3,99586,1840023393
+Tolsona,Tolsona,AK,Alaska,2066,Copper River,62.0844,-146.092,35,0,shape,FALSE,FALSE,America/Anchorage,3,99588,1840023663
+Tonsina,Tonsina,AK,Alaska,2066,Copper River,61.5617,-145.0656,14,0,shape,FALSE,FALSE,America/Anchorage,3,99573,1840023401
+Nabesna,Nabesna,AK,Alaska,2066,Copper River,62.4606,-143.0402,0,0,shape,FALSE,FALSE,America/Anchorage,3,99586,1840023403
+Paxson,Paxson,AK,Alaska,2066,Copper River,63.011,-145.7312,0,0,shape,FALSE,FALSE,America/Anchorage,3,99737,1840023398
+McCarthy,McCarthy,AK,Alaska,2066,Copper River,61.4539,-142.8648,0,0,shape,FALSE,FALSE,America/Anchorage,3,99566,1840023390
+Chisana,Chisana,AK,Alaska,2066,Copper River,62.0946,-142.034,0,0,shape,FALSE,FALSE,America/Anchorage,3,99566,1840023392
+Healy,Healy,AK,Alaska,2068,Denali,63.9454,-149.0151,911,0,shape,FALSE,FALSE,America/Anchorage,3,99743,1840023381
+Denali Park,Denali Park,AK,Alaska,2068,Denali,63.5909,-148.7107,855,2,shape,FALSE,FALSE,America/Anchorage,3,99755 99729,1840023382
+Anderson,Anderson,AK,Alaska,2068,Denali,64.3074,-149.1562,191,1.9,shape,FALSE,TRUE,America/Anchorage,3,99704 99744,1840023384
+Cantwell,Cantwell,AK,Alaska,2068,Denali,63.379,-148.8158,136,0.1,shape,FALSE,FALSE,America/Anchorage,3,99729,1840023383
+Ferry,Ferry,AK,Alaska,2068,Denali,64.0496,-148.9205,24,0,shape,FALSE,FALSE,America/Anchorage,3,99743,1840023692
+Dillingham,Dillingham,AK,Alaska,2070,Dillingham,59.055,-158.5378,2133,23.9,shape,FALSE,TRUE,America/Anchorage,3,99576,1840023279
+Togiak,Togiak,AK,Alaska,2070,Dillingham,59.0693,-160.4728,866,8.4,shape,FALSE,TRUE,America/Anchorage,3,99678,1840023276
+Manokotak,Manokotak,AK,Alaska,2070,Dillingham,58.893,-158.9109,705,4,shape,FALSE,TRUE,America/Anchorage,3,99628,1840023281
+New Stuyahok,New Stuyahok,AK,Alaska,2070,Dillingham,59.4762,-157.271,572,6.5,shape,FALSE,TRUE,America/Anchorage,3,99636,1840023282
+Koliganek,Koliganek,AK,Alaska,2070,Dillingham,59.6971,-157.2259,238,5.4,shape,FALSE,FALSE,America/Anchorage,3,99576,1840023275
+Aleknagik,Aleknagik,AK,Alaska,2070,Dillingham,59.2946,-158.6896,125,1.9,shape,FALSE,TRUE,America/Anchorage,3,99555,1840023277
+Twin Hills,Twin Hills,AK,Alaska,2070,Dillingham,59.0815,-160.2826,69,1.2,shape,FALSE,FALSE,America/Anchorage,3,99576,1840023616
+Ekwok,Ekwok,AK,Alaska,2070,Dillingham,59.3462,-157.4861,53,1.6,shape,FALSE,TRUE,America/Anchorage,3,99580,1840023280
+Clark's Point,Clark's Point,AK,Alaska,2070,Dillingham,58.8329,-158.5276,42,4.3,shape,FALSE,TRUE,America/Anchorage,3,99569,1840023537
+Portage Creek,Portage Creek,AK,Alaska,2070,Dillingham,58.9054,-157.6698,3,0.1,shape,FALSE,FALSE,America/Anchorage,3,99576,1840023660
+Fairbanks,Fairbanks,AK,Alaska,2090,Fairbanks North Star,64.8353,-147.6533,64160,382.2,shape,FALSE,TRUE,America/Anchorage,3,99701 99703 99712,1840023463
+Badger,Badger,AK,Alaska,2090,Fairbanks North Star,64.8006,-147.3877,19226,114.3,shape,FALSE,FALSE,America/Anchorage,3,99705 99711,1840023690
+College,College,AK,Alaska,2090,Fairbanks North Star,64.8694,-147.8216,11797,262.8,shape,FALSE,FALSE,America/Anchorage,3,99709 99775,1840023462
+Steele Creek,Steele Creek,AK,Alaska,2090,Fairbanks North Star,64.9295,-147.3955,7399,30.6,shape,FALSE,TRUE,America/Anchorage,4,99712 99710,1840075216
+Chena Ridge,Chena Ridge,AK,Alaska,2090,Fairbanks North Star,64.7941,-148.0357,5643,62.1,shape,FALSE,TRUE,America/Anchorage,4,99709,1840075179
+Farmers Loop,Farmers Loop,AK,Alaska,2090,Fairbanks North Star,64.9061,-147.6957,4216,90.2,shape,FALSE,TRUE,America/Anchorage,4,99712,1840075181
+Eielson AFB,Eielson AFB,AK,Alaska,2090,Fairbanks North Star,64.6741,-147.0605,3240,43.8,shape,TRUE,TRUE,America/Anchorage,4,99705 99702,1840037568
+North Pole,North Pole,AK,Alaska,2090,Fairbanks North Star,64.7529,-147.3599,2825,280.6,shape,FALSE,TRUE,America/Anchorage,3,99705,1840023464
+Goldstream,Goldstream,AK,Alaska,2090,Fairbanks North Star,64.9339,-148.0083,2822,14.9,shape,FALSE,TRUE,America/Anchorage,4,99709 99708,1840075196
+Ester,Ester,AK,Alaska,2090,Fairbanks North Star,64.8646,-148.0916,2719,13.1,shape,FALSE,FALSE,America/Anchorage,3,99709 99725,1840023460
+Pleasant Valley,Pleasant Valley,AK,Alaska,2090,Fairbanks North Star,64.8855,-146.8985,754,5.5,shape,FALSE,FALSE,America/Anchorage,3,99712 99716,1840023685
+Salcha,Salcha,AK,Alaska,2090,Fairbanks North Star,64.5274,-146.9042,751,4.8,shape,FALSE,TRUE,America/Anchorage,4,99714,1840037687
+Moose Creek,Moose Creek,AK,Alaska,2090,Fairbanks North Star,64.714,-147.1639,547,143.8,shape,FALSE,FALSE,America/Anchorage,3,99705,1840023569
+South Van Horn,South Van Horn,AK,Alaska,2090,Fairbanks North Star,64.8091,-147.7854,443,19.4,shape,FALSE,TRUE,America/Anchorage,4,99709 99701,1840075206
+Two Rivers,Two Rivers,AK,Alaska,2090,Fairbanks North Star,64.8908,-147.0897,419,9.9,shape,FALSE,FALSE,America/Anchorage,3,99712,1840023525
+Harding-Birch Lakes,Harding-Birch Lakes,AK,Alaska,2090,Fairbanks North Star,64.3711,-146.5999,265,0.4,shape,FALSE,TRUE,America/Anchorage,4,99714,1840075078
+Fox,Fox,AK,Alaska,2090,Fairbanks North Star,64.9749,-147.609,169,5.6,shape,FALSE,FALSE,America/Anchorage,3,99712,1840023461
+Haines,Haines,AK,Alaska,2100,Haines,59.2416,-135.4549,1571,55.5,shape,FALSE,FALSE,America/Juneau,3,99827,1840023317
+Mosquito Lake,Mosquito Lake,AK,Alaska,2100,Haines,59.4708,-136.1452,226,1.5,shape,FALSE,FALSE,America/Juneau,3,99827,1840023683
+Lutak,Lutak,AK,Alaska,2100,Haines,59.3997,-135.6314,202,0.1,shape,FALSE,FALSE,America/Juneau,3,99827,1840023680
+Mud Bay,Mud Bay,AK,Alaska,2100,Haines,59.1518,-135.3585,53,3.5,shape,FALSE,FALSE,America/Juneau,3,99827,1840023657
+Excursion Inlet,Excursion Inlet,AK,Alaska,2100,Haines,58.4354,-135.3733,35,0.1,shape,FALSE,FALSE,America/Juneau,3,99850 99827,1840023316
+Covenant Life,Covenant Life,AK,Alaska,2100,Haines,59.3998,-136.0946,9,0.9,shape,FALSE,FALSE,America/Juneau,3,99827,1840023668
+Hoonah,Hoonah,AK,Alaska,2105,Hoonah-Angoon,58.1118,-135.4248,913,55.9,shape,FALSE,TRUE,America/Juneau,3,99829,1840023314
+Gustavus,Gustavus,AK,Alaska,2105,Hoonah-Angoon,58.4275,-135.7492,583,5.2,shape,FALSE,TRUE,America/Juneau,3,99826,1840023313
+Angoon,Angoon,AK,Alaska,2105,Hoonah-Angoon,57.455,-134.4978,501,7.8,shape,FALSE,TRUE,America/Juneau,3,99820,1840023312
+Tenakee Springs,Tenakee Springs,AK,Alaska,2105,Hoonah-Angoon,57.7913,-135.1954,156,3.6,shape,FALSE,TRUE,America/Juneau,3,99841,1840023310
+Klukwan,Klukwan,AK,Alaska,2105,Hoonah-Angoon,59.3987,-135.8886,71,17,shape,FALSE,FALSE,America/Juneau,3,99827,1840023677
+Pelican,Pelican,AK,Alaska,2105,Hoonah-Angoon,57.9576,-136.2176,38,40.1,shape,FALSE,TRUE,America/Juneau,3,99832,1840023315
+Elfin Cove,Elfin Cove,AK,Alaska,2105,Hoonah-Angoon,58.1286,-136.1951,19,0,shape,FALSE,FALSE,America/Juneau,3,99825,1840023309
+Game Creek,Game Creek,AK,Alaska,2105,Hoonah-Angoon,58.0553,-135.508,0,0.7,shape,FALSE,FALSE,America/Juneau,3,99829,1840023673
+Whitestone Logging Camp,Whitestone Logging Camp,AK,Alaska,2105,Hoonah-Angoon,58.0658,-135.4207,0,0,shape,FALSE,FALSE,America/Juneau,3,99829,1840023688
+Juneau,Juneau,AK,Alaska,2110,Juneau,58.4546,-134.1739,32240,4.6,shape,FALSE,TRUE,America/Juneau,2,99824 99801 99802 99803 99811 99812 99821,1840023306
+Kalifornsky,Kalifornsky,AK,Alaska,2122,Kenai Peninsula,60.4417,-151.1972,8428,47.2,shape,FALSE,FALSE,America/Anchorage,3,99610 99611 99669,1840023406
+Kenai,Kenai,AK,Alaska,2122,Kenai Peninsula,60.5619,-151.1985,7452,103.3,shape,FALSE,TRUE,America/Anchorage,3,99611,1840023421
+Sterling,Sterling,AK,Alaska,2122,Kenai Peninsula,60.5405,-150.8089,6016,25.6,shape,FALSE,FALSE,America/Anchorage,3,99672 99669,1840023417
+Homer,Homer,AK,Alaska,2122,Kenai Peninsula,59.653,-151.5255,5531,163.3,shape,FALSE,TRUE,America/Anchorage,3,99603,1840023419
+Soldotna,Soldotna,AK,Alaska,2122,Kenai Peninsula,60.4862,-151.0672,4370,261.2,shape,FALSE,TRUE,America/Anchorage,3,99669,1840023415
+Nikiski,Nikiski,AK,Alaska,2122,Kenai Peninsula,60.7152,-151.2317,4232,24,shape,FALSE,FALSE,America/Anchorage,3,99611,1840023615
+Ridgeway,Ridgeway,AK,Alaska,2122,Kenai Peninsula,60.5305,-151.0301,2689,60.5,shape,FALSE,FALSE,America/Anchorage,3,99611 99669,1840023687
+Seward,Seward,AK,Alaska,2122,Kenai Peninsula,60.1124,-149.3925,2614,77.8,shape,FALSE,TRUE,America/Anchorage,3,99664,1840023423
+Anchor Point,Anchor Point,AK,Alaska,2122,Kenai Peninsula,59.7703,-151.7052,2288,9.5,shape,FALSE,FALSE,America/Anchorage,3,99556,1840023410
+Fritz Creek,Fritz Creek,AK,Alaska,2122,Kenai Peninsula,59.747,-151.2885,2145,14.6,shape,FALSE,FALSE,America/Anchorage,3,99603,1840023672
+Cohoe,Cohoe,AK,Alaska,2122,Kenai Peninsula,60.2681,-151.2843,1557,8.1,shape,FALSE,FALSE,America/Anchorage,3,99610,1840023413
+Bear Creek,Bear Creek,AK,Alaska,2122,Kenai Peninsula,60.2071,-149.3524,1524,13,shape,FALSE,FALSE,America/Anchorage,3,99664,1840023650
+Diamond Ridge,Diamond Ridge,AK,Alaska,2122,Kenai Peninsula,59.7024,-151.5546,1409,12.2,shape,FALSE,FALSE,America/Anchorage,3,99603,1840023651
+Salamatof,Salamatof,AK,Alaska,2122,Kenai Peninsula,60.6154,-151.3159,1165,49.3,shape,FALSE,FALSE,America/Anchorage,3,99611,1840023604
+Funny River,Funny River,AK,Alaska,2122,Kenai Peninsula,60.4876,-150.7812,1005,19.4,shape,FALSE,FALSE,America/Anchorage,3,99669,1840023653
+Ninilchik,Ninilchik,AK,Alaska,2122,Kenai Peninsula,60.0745,-151.3843,964,1.7,shape,FALSE,FALSE,America/Anchorage,3,99568 99639,1840023409
+Happy Valley,Happy Valley,AK,Alaska,2122,Kenai Peninsula,59.9137,-151.6072,700,2.9,shape,FALSE,FALSE,America/Anchorage,3,99556 99639,1840023404
+Kachemak,Kachemak,AK,Alaska,2122,Kenai Peninsula,59.6745,-151.4363,637,125.7,shape,FALSE,TRUE,America/Anchorage,4,99603,1840037714
+Fox River,Fox River,AK,Alaska,2122,Kenai Peninsula,59.8722,-150.9984,580,1.6,shape,FALSE,FALSE,America/Anchorage,3,99603,1840023671
+Kasilof,Kasilof,AK,Alaska,2122,Kenai Peninsula,60.331,-151.2293,459,26.1,shape,FALSE,FALSE,America/Anchorage,3,99610,1840023407
+Tyonek,Tyonek,AK,Alaska,2122,Kenai Peninsula,61.0734,-151.333,331,2.4,shape,FALSE,FALSE,America/Anchorage,3,99635 99682,1840023418
+Moose Pass,Moose Pass,AK,Alaska,2122,Kenai Peninsula,60.4997,-149.4464,267,5.4,shape,FALSE,FALSE,America/Anchorage,3,99631,1840023408
+Clam Gulch,Clam Gulch,AK,Alaska,2122,Kenai Peninsula,60.2,-151.3939,230,7.3,shape,FALSE,FALSE,America/Anchorage,3,99568,1840023412
+Seldovia Village,Seldovia Village,AK,Alaska,2122,Kenai Peninsula,59.453,-151.5905,223,3.7,shape,FALSE,FALSE,America/Anchorage,3,99663,1840023661
+Cooper Landing,Cooper Landing,AK,Alaska,2122,Kenai Peninsula,60.4945,-149.841,217,1.5,shape,FALSE,FALSE,America/Anchorage,3,99664 99572,1840023414
+Halibut Cove,Halibut Cove,AK,Alaska,2122,Kenai Peninsula,59.5744,-151.2296,205,8.7,shape,FALSE,FALSE,America/Anchorage,3,99603,1840023645
+Nikolaevsk,Nikolaevsk,AK,Alaska,2122,Kenai Peninsula,59.8295,-151.5964,198,2.1,shape,FALSE,FALSE,America/Anchorage,3,99556,1840023618
+Nanwalek,Nanwalek,AK,Alaska,2122,Kenai Peninsula,59.3303,-151.9111,196,9.8,shape,FALSE,FALSE,America/Anchorage,3,99603,1840023599
+Seldovia,Seldovia,AK,Alaska,2122,Kenai Peninsula,59.4396,-151.7111,171,163.7,shape,FALSE,TRUE,America/Anchorage,3,99663,1840023422
+Port Graham,Port Graham,AK,Alaska,2122,Kenai Peninsula,59.34,-151.8464,150,9.1,shape,FALSE,FALSE,America/Anchorage,3,99603,1840023416
+Hope,Hope,AK,Alaska,2122,Kenai Peninsula,60.8924,-149.6352,105,1.1,shape,FALSE,FALSE,America/Anchorage,3,99605,1840023405
+Primrose,Primrose,AK,Alaska,2122,Kenai Peninsula,60.3497,-149.3199,99,1.3,shape,FALSE,FALSE,America/Anchorage,3,99664,1840137265
+Lowell Point,Lowell Point,AK,Alaska,2122,Kenai Peninsula,60.0629,-149.4898,83,3,shape,FALSE,FALSE,America/Anchorage,3,99664,1840023656
+Crown Point,Crown Point,AK,Alaska,2122,Kenai Peninsula,60.4267,-149.353,63,6.2,shape,FALSE,FALSE,America/Anchorage,3,99664,1840023617
+Sunrise,Sunrise,AK,Alaska,2122,Kenai Peninsula,60.8701,-149.4678,14,1.2,shape,FALSE,FALSE,America/Anchorage,3,99605,1840023608
+Beluga,Beluga,AK,Alaska,2122,Kenai Peninsula,61.1868,-151.1637,3,0,shape,FALSE,FALSE,America/Anchorage,3,99682,1840023411
+Point Possession,Point Possession,AK,Alaska,2122,Kenai Peninsula,60.9228,-150.6891,0,0,shape,FALSE,TRUE,America/Anchorage,5,99611,1840075202
+Ketchikan,Ketchikan,AK,Alaska,2130,Ketchikan Gateway,55.3556,-131.6698,8150,833,shape,FALSE,TRUE,America/Sitka,3,99901 99950,1840023270
+Saxman,Saxman,AK,Alaska,2130,Ketchikan Gateway,55.3232,-131.5892,356,131.3,shape,FALSE,TRUE,America/Sitka,3,99901,1840023271
+Loring,Loring,AK,Alaska,2130,Ketchikan Gateway,55.6064,-131.6405,0,2.7,shape,FALSE,FALSE,America/Sitka,3,99901,1840025214
+Kodiak,Kodiak,AK,Alaska,2150,Kodiak Island,57.7934,-152.4059,5682,588.7,shape,FALSE,TRUE,America/Anchorage,3,99615 99619,1840023301
+Mill Bay,Mill Bay,AK,Alaska,2150,Kodiak Island,57.8185,-152.3657,3719,437.7,shape,FALSE,FALSE,America/Anchorage,3,99615,1840144722
+Kodiak Station,Kodiak Station,AK,Alaska,2150,Kodiak Island,57.745,-152.5442,2183,29.8,shape,TRUE,TRUE,America/Anchorage,4,99615,1840075081
+Womens Bay,Womens Bay,AK,Alaska,2150,Kodiak Island,57.696,-152.6276,978,7.5,shape,FALSE,FALSE,America/Anchorage,3,99615,1840023689
+Old Harbor,Old Harbor,AK,Alaska,2150,Kodiak Island,57.2169,-153.3252,174,5.2,shape,FALSE,TRUE,America/Anchorage,3,99643,1840023303
+Port Lions,Port Lions,AK,Alaska,2150,Kodiak Island,57.8758,-152.8737,128,11.2,shape,FALSE,TRUE,America/Anchorage,3,99550,1840023305
+Akhiok,Akhiok,AK,Alaska,2150,Kodiak Island,56.945,-154.215,114,8.6,shape,FALSE,TRUE,America/Anchorage,3,99615,1840023300
+Ouzinkie,Ouzinkie,AK,Alaska,2150,Kodiak Island,57.9223,-152.4674,108,8.9,shape,FALSE,TRUE,America/Anchorage,3,99644,1840023304
+Larsen Bay,Larsen Bay,AK,Alaska,2150,Kodiak Island,57.5404,-154.0056,24,2.8,shape,FALSE,TRUE,America/Anchorage,3,99624,1840023302
+Karluk,Karluk,AK,Alaska,2150,Kodiak Island,57.5845,-154.3255,21,0,shape,FALSE,FALSE,America/Anchorage,3,99608,1840023299
+Aleneva,Aleneva,AK,Alaska,2150,Kodiak Island,58.059,-152.9091,0,0,shape,FALSE,FALSE,America/Anchorage,3,99615,1840023649
+Chiniak,Chiniak,AK,Alaska,2150,Kodiak Island,57.5775,-152.2743,0,0,shape,FALSE,FALSE,America/Anchorage,3,99615,1840023667
+Kotlik,Kotlik,AK,Alaska,2158,Kusilvak,63.0305,-163.553,1247,161.5,shape,FALSE,TRUE,America/Nome,3,99620,1840023325
+Alakanuk,Alakanuk,AK,Alaska,2158,Kusilvak,62.6902,-164.6305,1065,12.7,shape,FALSE,TRUE,America/Nome,3,99554,1840023321
+Emmonak,Emmonak,AK,Alaska,2158,Kusilvak,62.7762,-164.5157,1005,82.8,shape,FALSE,TRUE,America/Nome,3,99581,1840023323
+Hooper Bay,Hooper Bay,AK,Alaska,2158,Kusilvak,61.5262,-166.1146,961,45.1,shape,FALSE,TRUE,America/Nome,3,99604,1840023324
+Mountain Village,Mountain Village,AK,Alaska,2158,Kusilvak,62.0911,-163.7209,845,96.7,shape,FALSE,TRUE,America/Nome,3,99632,1840023327
+St. Mary's,St. Mary's,AK,Alaska,2158,Kusilvak,62.0718,-163.2805,817,5.7,shape,FALSE,TRUE,America/Nome,4,99658,1840075119
+Chevak,Chevak,AK,Alaska,2158,Kusilvak,61.5295,-165.5941,777,275.9,shape,FALSE,TRUE,America/Nome,3,99563,1840023322
+Pilot Station,Pilot Station,AK,Alaska,2158,Kusilvak,61.9422,-162.8828,467,101.2,shape,FALSE,TRUE,America/Nome,3,99650,1840023329
+Scammon Bay,Scammon Bay,AK,Alaska,2158,Kusilvak,61.842,-165.5833,459,382.7,shape,FALSE,TRUE,America/Nome,3,99662,1840023332
+Marshall,Marshall,AK,Alaska,2158,Kusilvak,61.8753,-162.0487,253,16,shape,FALSE,TRUE,America/Nome,3,99585,1840023326
+Pitkas Point,Pitkas Point,AK,Alaska,2158,Kusilvak,62.0374,-163.2681,185,31.2,shape,FALSE,FALSE,America/Nome,3,99658,1840023320
+Nunam Iqua,Nunam Iqua,AK,Alaska,2158,Kusilvak,62.511,-164.8998,142,4.1,shape,FALSE,TRUE,America/Nome,3,99666,1840023328
+Russian Mission,Russian Mission,AK,Alaska,2158,Kusilvak,61.7825,-161.3567,118,13.9,shape,FALSE,TRUE,America/Anchorage,3,99657,1840023330
+Port Alsworth,Port Alsworth,AK,Alaska,2164,Lake and Peninsula,60.1688,-154.3233,116,3.4,shape,FALSE,FALSE,America/Anchorage,3,99653,1840023291
+Kokhanok,Kokhanok,AK,Alaska,2164,Lake and Peninsula,59.4158,-154.7457,109,2.3,shape,FALSE,FALSE,America/Anchorage,3,99606,1840023555
+Newhalen,Newhalen,AK,Alaska,2164,Lake and Peninsula,59.727,-154.897,100,6.8,shape,FALSE,TRUE,America/Anchorage,3,99606,1840023295
+Pilot Point,Pilot Point,AK,Alaska,2164,Lake and Peninsula,57.5585,-157.6798,86,1.3,shape,FALSE,TRUE,America/Anchorage,3,99649,1840000190
+Perryville,Perryville,AK,Alaska,2164,Lake and Peninsula,55.9315,-159.1559,74,1.9,shape,FALSE,FALSE,America/Anchorage,3,99648,1840023290
+Port Heiden,Port Heiden,AK,Alaska,2164,Lake and Peninsula,56.9426,-158.6047,65,0.3,shape,FALSE,TRUE,America/Anchorage,3,99549,1840000498
+Igiugig,Igiugig,AK,Alaska,2164,Lake and Peninsula,59.3056,-155.8739,60,1.1,shape,FALSE,FALSE,America/Anchorage,3,99613,1840023283
+Nondalton,Nondalton,AK,Alaska,2164,Lake and Peninsula,59.9711,-154.8627,50,5,shape,FALSE,TRUE,America/Anchorage,3,99640,1840023296
+Egegik,Egegik,AK,Alaska,2164,Lake and Peninsula,58.2181,-157.4036,47,0,shape,FALSE,TRUE,America/Anchorage,3,99579,1840023294
+Chignik,Chignik,AK,Alaska,2164,Lake and Peninsula,56.3003,-158.4132,44,1.5,shape,FALSE,TRUE,America/Anchorage,3,99564,1840023293
+Chignik Lake,Chignik Lake,AK,Alaska,2164,Lake and Peninsula,56.2631,-158.8049,40,1.6,shape,FALSE,FALSE,America/Anchorage,3,99548,1840023691
+Iliamna,Iliamna,AK,Alaska,2164,Lake and Peninsula,59.7957,-154.8698,35,0.1,shape,FALSE,FALSE,America/Anchorage,3,99606,1840023284
+Levelock,Levelock,AK,Alaska,2164,Lake and Peninsula,59.0683,-156.9009,34,0.4,shape,FALSE,FALSE,America/Anchorage,3,99625,1840023287
+Chignik Lagoon,Chignik Lagoon,AK,Alaska,2164,Lake and Peninsula,56.3041,-158.5004,31,1,shape,FALSE,FALSE,America/Anchorage,3,99565,1840023288
+Pedro Bay,Pedro Bay,AK,Alaska,2164,Lake and Peninsula,59.7862,-154.1321,18,0,shape,FALSE,FALSE,America/Anchorage,3,99647,1840023289
+Ugashik,Ugashik,AK,Alaska,2164,Lake and Peninsula,57.5736,-157.1232,3,0,shape,FALSE,FALSE,America/Anchorage,3,99649,1840023292
+Ivanof Bay,Ivanof Bay,AK,Alaska,2164,Lake and Peninsula,55.9183,-159.4933,0,0.6,shape,FALSE,FALSE,America/Anchorage,3,99695,1840023285
+Pope-Vannoy Landing,Pope-Vannoy Landing,AK,Alaska,2164,Lake and Peninsula,59.5649,-154.4654,0,0,shape,FALSE,TRUE,America/Anchorage,5,99640,1840037676
+Knik-Fairview,Knik-Fairview,AK,Alaska,2170,Matanuska-Susitna,61.5082,-149.6252,18282,92.8,shape,FALSE,TRUE,America/Anchorage,3,99623 99654,1840075080
+Tanaina,Tanaina,AK,Alaska,2170,Matanuska-Susitna,61.6576,-149.4263,10314,133.1,shape,FALSE,FALSE,America/Anchorage,3,99654,1840023662
+North Lakes,North Lakes,AK,Alaska,2170,Matanuska-Susitna,61.6191,-149.311,9941,232.4,shape,FALSE,FALSE,America/Anchorage,3,99654 99687,1840152941
+Wasilla,Wasilla,AK,Alaska,2170,Matanuska-Susitna,61.577,-149.466,9098,326.1,shape,FALSE,TRUE,America/Anchorage,3,99654 99629,1840023371
+Meadow Lakes,Meadow Lakes,AK,Alaska,2170,Matanuska-Susitna,61.638,-149.608,8367,42.5,shape,FALSE,FALSE,America/Anchorage,3,99623 99654 99688,1840023681
+South Lakes,South Lakes,AK,Alaska,2170,Matanuska-Susitna,61.5874,-149.316,6421,304.2,shape,FALSE,FALSE,America/Anchorage,3,99645 99654,1840152940
+Gateway,Gateway,AK,Alaska,2170,Matanuska-Susitna,61.5668,-149.2417,6305,125.4,shape,FALSE,FALSE,America/Anchorage,3,99645 99654,1840023654
+Palmer,Palmer,AK,Alaska,2170,Matanuska-Susitna,61.5971,-149.1148,5978,560.2,shape,FALSE,TRUE,America/Anchorage,3,99645,1840023379
+Fishhook,Fishhook,AK,Alaska,2170,Matanuska-Susitna,61.7199,-149.2621,5055,28.2,shape,FALSE,TRUE,America/Anchorage,4,99645 99654,1840037578
+Butte,Butte,AK,Alaska,2170,Matanuska-Susitna,61.5539,-149.0035,3857,44.4,shape,FALSE,FALSE,America/Anchorage,3,99645,1840023368
+Big Lake,Big Lake,AK,Alaska,2170,Matanuska-Susitna,61.526,-149.9721,2888,9.3,shape,FALSE,FALSE,America/Anchorage,3,99652,1840023666
+Farm Loop,Farm Loop,AK,Alaska,2170,Matanuska-Susitna,61.6343,-149.1614,2549,111.8,shape,FALSE,TRUE,America/Anchorage,4,99645,1840075075
+Willow,Willow,AK,Alaska,2170,Matanuska-Susitna,61.8157,-149.753,1965,1.1,shape,FALSE,FALSE,America/Anchorage,3,99694 99688,1840023377
+Lazy Mountain,Lazy Mountain,AK,Alaska,2170,Matanuska-Susitna,61.6517,-148.902,1766,10.8,shape,FALSE,FALSE,America/Anchorage,3,99645,1840023678
+Houston,Houston,AK,Alaska,2170,Matanuska-Susitna,61.6159,-149.8003,1739,31.5,shape,FALSE,TRUE,America/Anchorage,3,99694 99652,1840023378
+Point MacKenzie,Point MacKenzie,AK,Alaska,2170,Matanuska-Susitna,61.3498,-150.0664,1364,3.1,shape,FALSE,FALSE,America/Anchorage,3,99623,1840023659
+Sutton-Alpine,Sutton-Alpine,AK,Alaska,2170,Matanuska-Susitna,61.7428,-148.8548,1228,9,shape,FALSE,TRUE,America/Anchorage,4,99674,1840075108
+Susitna North,Susitna North,AK,Alaska,2170,Matanuska-Susitna,62.1281,-149.8593,1193,1.8,shape,FALSE,TRUE,America/Anchorage,4,99676 99688,1840037713
+Buffalo Soapstone,Buffalo Soapstone,AK,Alaska,2170,Matanuska-Susitna,61.7071,-149.1093,949,16.3,shape,FALSE,TRUE,America/Anchorage,4,99645,1840075101
+Talkeetna,Talkeetna,AK,Alaska,2170,Matanuska-Susitna,62.2994,-149.9601,947,4.9,shape,FALSE,FALSE,America/Anchorage,3,99676,1840023375
+Knik River,Knik River,AK,Alaska,2170,Matanuska-Susitna,61.4606,-148.9155,799,3.8,shape,FALSE,TRUE,America/Anchorage,4,99645,1840075079
+Trapper Creek,Trapper Creek,AK,Alaska,2170,Matanuska-Susitna,62.3189,-150.3965,318,0,shape,FALSE,FALSE,America/Anchorage,3,99683,1840023376
+Glacier View,Glacier View,AK,Alaska,2170,Matanuska-Susitna,61.8511,-147.7764,250,0,shape,FALSE,TRUE,America/Anchorage,4,99674,1840075077
+Chickaloon,Chickaloon,AK,Alaska,2170,Matanuska-Susitna,61.804,-148.4103,188,0,shape,FALSE,FALSE,America/Anchorage,3,99674,1840023370
+Skwentna,Skwentna,AK,Alaska,2170,Matanuska-Susitna,61.9314,-151.2096,69,0,shape,FALSE,FALSE,America/Anchorage,3,99667 99688,1840023373
+Susitna,Susitna,AK,Alaska,2170,Matanuska-Susitna,61.4935,-150.595,0,0,shape,FALSE,FALSE,America/Anchorage,3,99667 99688,1840023374
+Lake Louise,Lake Louise,AK,Alaska,2170,Matanuska-Susitna,62.3423,-146.5875,0,0,shape,FALSE,FALSE,America/Anchorage,3,99588,1840023655
+Chase,Chase,AK,Alaska,2170,Matanuska-Susitna,62.4624,-149.9371,0,0,shape,FALSE,FALSE,America/Anchorage,3,99676,1840023369
+Eureka Roadhouse,Eureka Roadhouse,AK,Alaska,2170,Matanuska-Susitna,61.9648,-147.1523,0,0,shape,FALSE,FALSE,America/Anchorage,3,99674 99588,1840023380
+Petersville,Petersville,AK,Alaska,2170,Matanuska-Susitna,62.4226,-150.8444,0,0,shape,FALSE,FALSE,America/Anchorage,3,99683,1840023372
+Nome,Nome,AK,Alaska,2180,Nome,64.5213,-165.4053,3685,116.7,shape,FALSE,TRUE,America/Nome,3,99762,1840023510
+Savoonga,Savoonga,AK,Alaska,2180,Nome,63.6797,-170.4831,946,55.8,shape,FALSE,TRUE,America/Nome,3,99769,1840023512
+Unalakleet,Unalakleet,AK,Alaska,2180,Nome,63.8924,-160.7861,728,103.6,shape,FALSE,TRUE,America/Anchorage,3,99684,1840023501
+Brevig Mission,Brevig Mission,AK,Alaska,2180,Nome,65.3413,-166.4953,673,98.6,shape,FALSE,TRUE,America/Nome,3,99785,1840023504
+Stebbins,Stebbins,AK,Alaska,2180,Nome,63.4705,-162.2599,646,7.3,shape,FALSE,TRUE,America/Nome,3,99671,1840023499
+Shishmaref,Shishmaref,AK,Alaska,2180,Nome,66.2372,-166.1027,560,82.4,shape,FALSE,TRUE,America/Nome,3,99772,1840023498
+Gambell,Gambell,AK,Alaska,2180,Nome,63.7538,-171.6881,419,18.2,shape,FALSE,TRUE,America/Nome,3,99742,1840023507
+Shaktoolik,Shaktoolik,AK,Alaska,2180,Nome,64.3568,-161.1973,330,117.2,shape,FALSE,TRUE,America/Anchorage,3,99771,1840023497
+St. Michael,St. Michael,AK,Alaska,2180,Nome,63.4664,-162.1324,312,6,shape,FALSE,TRUE,America/Nome,3,99659,1840023511
+Elim,Elim,AK,Alaska,2180,Nome,64.6186,-162.2763,279,31.9,shape,FALSE,TRUE,America/Nome,3,99739,1840023506
+Koyuk,Koyuk,AK,Alaska,2180,Nome,64.9411,-161.1454,276,18.4,shape,FALSE,TRUE,America/Anchorage,3,99753,1840023509
+Wales,Wales,AK,Alaska,2180,Nome,65.6119,-168.0773,267,37.2,shape,FALSE,TRUE,America/Nome,3,99783,1840023502
+Teller,Teller,AK,Alaska,2180,Nome,65.2531,-166.342,250,61.3,shape,FALSE,TRUE,America/Nome,3,99778,1840023500
+White Mountain,White Mountain,AK,Alaska,2180,Nome,64.6812,-163.4228,192,36,shape,FALSE,TRUE,America/Nome,3,99784,1840023503
+Golovin,Golovin,AK,Alaska,2180,Nome,64.564,-162.9989,163,13.3,shape,FALSE,TRUE,America/Nome,3,99762,1840023508
+Diomede,Diomede,AK,Alaska,2180,Nome,65.7536,-168.9219,80,14.8,shape,FALSE,TRUE,America/Nome,3,99762,1840023505
+Port Clarence,Port Clarence,AK,Alaska,2180,Nome,65.1108,-166.7683,46,0.3,shape,FALSE,FALSE,America/Nome,3,99762,1840023578
+Utqiagvik,Utqiagvik,AK,Alaska,2185,North Slope,71.2727,-156.7575,5123,89.6,shape,FALSE,TRUE,America/Anchorage,3,99723,1840023481
+Prudhoe Bay,Prudhoe Bay,AK,Alaska,2185,North Slope,70.3148,-148.7167,1500,1.4,shape,FALSE,FALSE,America/Anchorage,3,99519 99734,1840023478
+Point Hope,Point Hope,AK,Alaska,2185,North Slope,68.3445,-166.6738,925,51,shape,FALSE,TRUE,America/Nome,3,99766,1840023484
+Nuiqsut,Nuiqsut,AK,Alaska,2185,North Slope,70.2135,-150.9897,751,23.2,shape,FALSE,TRUE,America/Anchorage,3,99789,1840023483
+Wainwright,Wainwright,AK,Alaska,2185,North Slope,70.638,-159.9713,556,16.4,shape,FALSE,TRUE,America/Anchorage,3,99782,1840023476
+Anaktuvuk Pass,Anaktuvuk Pass,AK,Alaska,2185,North Slope,68.15,-151.7162,261,18.7,shape,FALSE,TRUE,America/Anchorage,3,99721,1840023479
+Kaktovik,Kaktovik,AK,Alaska,2185,North Slope,70.1231,-143.6258,241,88.8,shape,FALSE,TRUE,America/Anchorage,3,99747,1840023482
+Point Lay,Point Lay,AK,Alaska,2185,North Slope,69.7443,-162.8678,229,2.4,shape,FALSE,FALSE,America/Nome,3,99759,1840023477
+Atqasuk,Atqasuk,AK,Alaska,2185,North Slope,70.481,-157.3835,181,1.3,shape,FALSE,TRUE,America/Anchorage,3,99791,1840023480
+Kotzebue,Kotzebue,AK,Alaska,2188,Northwest Arctic,66.8766,-162.5231,3199,51.2,shape,FALSE,TRUE,America/Nome,3,99752,1840023494
+Kivalina,Kivalina,AK,Alaska,2188,Northwest Arctic,67.733,-164.5212,905,183.7,shape,FALSE,TRUE,America/Nome,3,99750,1840023492
+Buckland,Buckland,AK,Alaska,2188,Northwest Arctic,65.9784,-161.1341,677,310.1,shape,FALSE,TRUE,America/Anchorage,3,99727,1840023489
+Selawik,Selawik,AK,Alaska,2188,Northwest Arctic,66.5988,-159.9995,659,120.6,shape,FALSE,TRUE,America/Anchorage,3,99770,1840023496
+Noorvik,Noorvik,AK,Alaska,2188,Northwest Arctic,66.8292,-161.0377,602,258.9,shape,FALSE,TRUE,America/Anchorage,3,99763,1840023495
+Noatak,Noatak,AK,Alaska,2188,Northwest Arctic,67.5986,-163.0309,488,10.2,shape,FALSE,FALSE,America/Nome,3,99761,1840023486
+Kiana,Kiana,AK,Alaska,2188,Northwest Arctic,66.9727,-160.4343,372,414.1,shape,FALSE,TRUE,America/Anchorage,3,99749,1840023491
+Ambler,Ambler,AK,Alaska,2188,Northwest Arctic,67.0897,-157.8725,273,10.3,shape,FALSE,TRUE,America/Anchorage,3,99786,1840023488
+Shungnak,Shungnak,AK,Alaska,2188,Northwest Arctic,66.8805,-157.1499,204,10.1,shape,FALSE,TRUE,America/Anchorage,3,99773,1840023485
+Deering,Deering,AK,Alaska,2188,Northwest Arctic,66.0722,-162.7435,163,11.5,shape,FALSE,TRUE,America/Nome,3,99736,1840023490
+Kobuk,Kobuk,AK,Alaska,2188,Northwest Arctic,66.931,-156.8939,156,3.8,shape,FALSE,TRUE,America/Anchorage,3,99751,1840023493
+Red Dog Mine,Red Dog Mine,AK,Alaska,2188,Northwest Arctic,68.0645,-162.8667,0,1.8,shape,FALSE,FALSE,America/Nome,3,99752,1840023487
+Petersburg,Petersburg,AK,Alaska,2195,Petersburg,56.7566,-132.8727,3259,27.7,shape,FALSE,FALSE,America/Sitka,3,99833,1840023308
+Kupreanof,Kupreanof,AK,Alaska,2195,Petersburg,56.809,-132.9889,14,13.5,shape,FALSE,TRUE,America/Sitka,3,99833,1840023642
+Hobart Bay,Hobart Bay,AK,Alaska,2195,Petersburg,57.4212,-133.3231,0,0,shape,FALSE,FALSE,America/Juneau,3,99833,1840023675
+Metlakatla,Metlakatla,AK,Alaska,2198,Prince of Wales-Hyder,55.1182,-131.5689,1445,264.9,shape,FALSE,FALSE,America/Metlakatla,3,99926,1840023513
+Craig,Craig,AK,Alaska,2198,Prince of Wales-Hyder,55.4918,-133.1165,1102,69.6,shape,FALSE,TRUE,America/Sitka,3,99921,1840023520
+Klawock,Klawock,AK,Alaska,2198,Prince of Wales-Hyder,55.5556,-133.0868,805,484.9,shape,FALSE,TRUE,America/Sitka,3,99925,1840023523
+Thorne Bay,Thorne Bay,AK,Alaska,2198,Prince of Wales-Hyder,55.6652,-132.5337,470,6.5,shape,FALSE,TRUE,America/Sitka,3,99919,1840023517
+Kake,Kake,AK,Alaska,2198,Prince of Wales-Hyder,56.9729,-133.9148,447,25,shape,FALSE,TRUE,America/Sitka,3,99830,1840023307
+Hydaburg,Hydaburg,AK,Alaska,2198,Prince of Wales-Hyder,55.2061,-132.8208,319,352.4,shape,FALSE,TRUE,America/Sitka,3,99922,1840023521
+Coffman Cove,Coffman Cove,AK,Alaska,2198,Prince of Wales-Hyder,56.0057,-132.8395,206,7.8,shape,FALSE,TRUE,America/Sitka,3,99918,1840023519
+Hollis,Hollis,AK,Alaska,2198,Prince of Wales-Hyder,55.5113,-132.7023,201,1.2,shape,FALSE,FALSE,America/Sitka,3,99921,1840023515
+Naukati Bay,Naukati Bay,AK,Alaska,2198,Prince of Wales-Hyder,55.8801,-133.1992,110,8.9,shape,FALSE,FALSE,America/Sitka,3,99921,1840023516
+Whale Pass,Whale Pass,AK,Alaska,2198,Prince of Wales-Hyder,56.1053,-133.1243,95,2,shape,FALSE,TRUE,America/Sitka,3,99921,1840023644
+Kasaan,Kasaan,AK,Alaska,2198,Prince of Wales-Hyder,55.5572,-132.4136,92,6.4,shape,FALSE,TRUE,America/Sitka,3,99919,1840023522
+Edna Bay,Edna Bay,AK,Alaska,2198,Prince of Wales-Hyder,55.964,-133.6662,39,0.1,shape,FALSE,TRUE,America/Sitka,3,99921,1840000514
+Port Alexander,Port Alexander,AK,Alaska,2198,Prince of Wales-Hyder,56.2346,-134.6532,38,8.2,shape,FALSE,TRUE,America/Sitka,3,99836,1840023638
+Hyder,Hyder,AK,Alaska,2198,Prince of Wales-Hyder,55.9816,-130.0383,13,0.4,shape,FALSE,FALSE,America/Sitka,3,99923,1840023524
+Port Protection,Port Protection,AK,Alaska,2198,Prince of Wales-Hyder,56.3293,-133.594,11,5.2,shape,FALSE,FALSE,America/Sitka,3,99927,1840023686
+Point Baker,Point Baker,AK,Alaska,2198,Prince of Wales-Hyder,56.3483,-133.6165,0,6,shape,FALSE,FALSE,America/Sitka,3,99927,1840023518
+Sitka,Sitka,AK,Alaska,2220,Sitka,57.2401,-135.3152,8518,1.2,shape,FALSE,TRUE,America/Sitka,3,99835,1840023319
+Skagway,Skagway,AK,Alaska,2230,Skagway,59.4566,-135.2927,1217,48.7,shape,FALSE,FALSE,America/Juneau,3,99840,1840023311
+Deltana,Deltana,AK,Alaska,2240,Southeast Fairbanks,63.8723,-145.2158,2022,1.4,shape,FALSE,TRUE,America/Anchorage,4,99737 99731,1840075067
+Tok,Tok,AK,Alaska,2240,Southeast Fairbanks,63.329,-143.0379,1315,3.5,shape,FALSE,FALSE,America/Anchorage,3,99780,1840023473
+Delta Junction,Delta Junction,AK,Alaska,2240,Southeast Fairbanks,64.0603,-145.7058,1259,32.9,shape,FALSE,TRUE,America/Anchorage,3,99737,1840023474
+Big Delta,Big Delta,AK,Alaska,2240,Southeast Fairbanks,64.1486,-145.7453,521,5.2,shape,FALSE,FALSE,America/Anchorage,3,99737,1840023468
+Northway,Northway,AK,Alaska,2240,Southeast Fairbanks,62.9709,-141.6173,304,0.5,shape,FALSE,FALSE,America/Anchorage,3,99764,1840023470
+Tetlin,Tetlin,AK,Alaska,2240,Southeast Fairbanks,63.1481,-142.4947,246,1.3,shape,FALSE,FALSE,America/Anchorage,3,99780,1840023472
+Dry Creek,Dry Creek,AK,Alaska,2240,Southeast Fairbanks,63.6255,-144.6364,232,6.4,shape,FALSE,FALSE,America/Anchorage,3,99737,1840023670
+Alcan Border,Alcan Border,AK,Alaska,2240,Southeast Fairbanks,62.6727,-141.1321,170,0.1,shape,FALSE,TRUE,America/Anchorage,4,99764,1840075086
+Fort Greely,Fort Greely,AK,Alaska,2240,Southeast Fairbanks,63.9678,-145.7149,150,4.7,shape,TRUE,TRUE,America/Anchorage,4,99737,1840037586
+Eagle,Eagle,AK,Alaska,2240,Southeast Fairbanks,64.7813,-141.1979,107,47.7,shape,FALSE,TRUE,America/Anchorage,3,99738,1840023475
+Tanacross,Tanacross,AK,Alaska,2240,Southeast Fairbanks,63.3523,-143.4318,107,0,shape,FALSE,FALSE,America/Anchorage,3,99776,1840023471
+Eagle Village,Eagle Village,AK,Alaska,2240,Southeast Fairbanks,64.7434,-141.1138,33,1.1,shape,FALSE,FALSE,America/Anchorage,3,99738,1840023467
+Whitestone,Whitestone,AK,Alaska,2240,Southeast Fairbanks,64.1527,-145.9061,31,3.3,shape,FALSE,TRUE,America/Anchorage,5,99737,1840075218
+Healy Lake,Healy Lake,AK,Alaska,2240,Southeast Fairbanks,64.0281,-144.6331,23,0,shape,FALSE,FALSE,America/Anchorage,3,99706,1840023693
+Chicken,Chicken,AK,Alaska,2240,Southeast Fairbanks,64.0878,-141.8285,12,0,shape,FALSE,FALSE,America/Anchorage,3,99732,1840023469
+Dot Lake Village,Dot Lake Village,AK,Alaska,2240,Southeast Fairbanks,63.6626,-144.0162,11,1.9,shape,FALSE,FALSE,America/Anchorage,3,99737,1840023652
+Dot Lake,Dot Lake,AK,Alaska,2240,Southeast Fairbanks,63.5749,-144.1815,0,0,shape,FALSE,FALSE,America/Anchorage,3,99737,1840023466
+King Cove,King Cove,AK,Alaska,2013,Aleutians East,55.0858,-162.2978,1238,18,shape,FALSE,TRUE,America/Nome,3,99612,1840023268
+Sand Point,Sand Point,AK,Alaska,2013,Aleutians East,55.3227,-160.4834,1164,57.2,shape,FALSE,TRUE,America/Anchorage,3,99661,1840023269
+Akutan,Akutan,AK,Alaska,2013,Aleutians East,54.1594,-165.7328,700,4.4,shape,FALSE,TRUE,America/Nome,3,99553,1840023265
+False Pass,False Pass,AK,Alaska,2013,Aleutians East,54.8416,-163.348,106,1.2,shape,FALSE,TRUE,America/Nome,3,99583,1840000481
+Cold Bay,Cold Bay,AK,Alaska,2013,Aleutians East,55.2122,-162.7475,103,0,shape,FALSE,TRUE,America/Nome,3,99571,1840000464
+Nelson Lagoon,Nelson Lagoon,AK,Alaska,2013,Aleutians East,55.8451,-161.6103,98,0,shape,FALSE,FALSE,America/Anchorage,3,99571,1840023624
+Unalaska,Unalaska,AK,Alaska,2016,Aleutians West,53.8984,-166.568,4339,18,shape,FALSE,TRUE,America/Nome,3,99692 99685,1840023260
+St. Paul,St. Paul,AK,Alaska,2016,Aleutians West,57.1815,-170.2743,351,3.6,shape,FALSE,TRUE,America/Nome,3,99660,1840023264
+Eareckson Station,Eareckson Station,AK,Alaska,2016,Aleutians West,52.7213,174.111,202,13,shape,TRUE,FALSE,America/Adak,4,,1840152942
+Adak,Adak,AK,Alaska,2016,Aleutians West,51.8815,-176.6295,190,2.2,shape,FALSE,TRUE,America/Adak,3,99546,1840023261
+St. George,St. George,AK,Alaska,2016,Aleutians West,56.5791,-169.6114,95,1.1,shape,FALSE,TRUE,America/Nome,3,99591,1840023263
+Atka,Atka,AK,Alaska,2016,Aleutians West,52.2301,-174.2133,38,2,shape,FALSE,TRUE,America/Adak,3,99547,1840023262
+Attu Station,Attu Station,AK,Alaska,2016,Aleutians West,52.8955,173.123,19,0,shape,FALSE,TRUE,America/Adak,5,,1840037663
+Nikolski,Nikolski,AK,Alaska,2016,Aleutians West,53.0133,-168.7536,17,0,shape,FALSE,FALSE,America/Nome,3,99638,1840023259
+Wrangell,Wrangell,AK,Alaska,2275,Wrangell,56.3317,-132.0223,2162,1.2,shape,FALSE,TRUE,America/Sitka,3,99903 99929,1840000416
+Anchorage,Anchorage,AK,Alaska,2020,Anchorage,61.1508,-149.1091,292545,66.1,shape,FALSE,TRUE,America/Anchorage,2,99518 99515 99517 99516 99513 99540 99530 99567 99587 99508 99506 99507 99504 99505 99502 99503 99501 99577 99509 99510 99511 99514 99520 99521 99522 99523 99524 99529 99599,1840023385
+Yakutat,Yakutat,AK,Alaska,2282,Yakutat,59.567,-139.5966,562,2.3,shape,FALSE,FALSE,America/Yakutat,3,99689,1840023424
+Fort Yukon,Fort Yukon,AK,Alaska,2290,Yukon-Koyukuk,66.5806,-145.2415,520,27.1,shape,FALSE,TRUE,America/Anchorage,3,99740,1840023446
+Galena,Galena,AK,Alaska,2290,Yukon-Koyukuk,64.7381,-156.8635,519,11,shape,FALSE,TRUE,America/Anchorage,3,99741,1840023447
+Nenana,Nenana,AK,Alaska,2290,Yukon-Koyukuk,64.5384,-149.0856,506,31.3,shape,FALSE,TRUE,America/Anchorage,3,99760,1840023455
+Nulato,Nulato,AK,Alaska,2290,Yukon-Koyukuk,64.7052,-158.2382,296,2.8,shape,FALSE,TRUE,America/Anchorage,3,99765,1840023457
+Holy Cross,Holy Cross,AK,Alaska,2290,Yukon-Koyukuk,62.1868,-159.8198,290,3.4,shape,FALSE,TRUE,America/Anchorage,3,99602,1840023449
+Grayling,Grayling,AK,Alaska,2290,Yukon-Koyukuk,62.8998,-160.1078,236,6.9,shape,FALSE,TRUE,America/Anchorage,3,99590,1840023448
+Huslia,Huslia,AK,Alaska,2290,Yukon-Koyukuk,65.7001,-156.3386,230,6.7,shape,FALSE,TRUE,America/Anchorage,3,99746,1840023451
+McGrath,McGrath,AK,Alaska,2290,Yukon-Koyukuk,62.9424,-155.563,226,2.1,shape,FALSE,TRUE,America/Anchorage,3,99627,1840023454
+Arctic Village,Arctic Village,AK,Alaska,2290,Yukon-Koyukuk,68.1421,-145.4956,225,1.4,shape,FALSE,FALSE,America/Anchorage,3,99722,1840023431
+Coldfoot,Coldfoot,AK,Alaska,2290,Yukon-Koyukuk,67.2475,-150.1079,223,2.9,shape,FALSE,FALSE,America/Anchorage,3,99701,1840023436
+Kaltag,Kaltag,AK,Alaska,2290,Yukon-Koyukuk,64.3223,-158.7436,216,3.7,shape,FALSE,TRUE,America/Anchorage,3,99748,1840023452
+Allakaket,Allakaket,AK,Alaska,2290,Yukon-Koyukuk,66.5506,-152.627,213,5.5,shape,FALSE,TRUE,America/Anchorage,3,99720,1840023443
+Ruby,Ruby,AK,Alaska,2290,Yukon-Koyukuk,64.7233,-155.5005,200,10.4,shape,FALSE,TRUE,America/Anchorage,3,99768,1840023458
+Tanana,Tanana,AK,Alaska,2290,Yukon-Koyukuk,65.1746,-152.0686,190,6.3,shape,FALSE,TRUE,America/Anchorage,3,99777,1840023437
+Minto,Minto,AK,Alaska,2290,Yukon-Koyukuk,65.1033,-149.5565,151,0,shape,FALSE,FALSE,America/Anchorage,3,99758,1840023429
+Chalkyitsik,Chalkyitsik,AK,Alaska,2290,Yukon-Koyukuk,66.6469,-143.7821,110,5.4,shape,FALSE,FALSE,America/Anchorage,3,99788,1840023434
+Venetie,Venetie,AK,Alaska,2290,Yukon-Koyukuk,67.0206,-146.3741,109,2.1,shape,FALSE,FALSE,America/Anchorage,3,99781,1840023441
+Nikolai,Nikolai,AK,Alaska,2290,Yukon-Koyukuk,63.0095,-154.3763,104,10.1,shape,FALSE,TRUE,America/Anchorage,3,99691,1840023456
+Beaver,Beaver,AK,Alaska,2290,Yukon-Koyukuk,66.383,-147.3219,93,1.7,shape,FALSE,FALSE,America/Anchorage,3,99724,1840023432
+Anvik,Anvik,AK,Alaska,2290,Yukon-Koyukuk,62.6541,-160.214,93,3.5,shape,FALSE,TRUE,America/Anchorage,3,99558,1840023444
+Rampart,Rampart,AK,Alaska,2290,Yukon-Koyukuk,65.4087,-149.9915,67,0,shape,FALSE,FALSE,America/Anchorage,3,99767,1840023438
+Takotna,Takotna,AK,Alaska,2290,Yukon-Koyukuk,62.9827,-156.0838,58,2.3,shape,FALSE,FALSE,America/Anchorage,3,99675,1840023440
+Koyukuk,Koyukuk,AK,Alaska,2290,Yukon-Koyukuk,64.9008,-157.6946,57,3.5,shape,FALSE,TRUE,America/Anchorage,3,99754,1840023453
+Central,Central,AK,Alaska,2290,Yukon-Koyukuk,65.5213,-144.6409,51,0.1,shape,FALSE,FALSE,America/Anchorage,3,99730,1840023433
+Shageluk,Shageluk,AK,Alaska,2290,Yukon-Koyukuk,62.6684,-159.563,42,2.1,shape,FALSE,TRUE,America/Anchorage,3,99665,1840023459
+Hughes,Hughes,AK,Alaska,2290,Yukon-Koyukuk,66.0452,-154.2376,41,7.1,shape,FALSE,TRUE,America/Anchorage,3,99745,1840023450
+Alatna,Alatna,AK,Alaska,2290,Yukon-Koyukuk,66.5638,-152.8385,41,0.2,shape,FALSE,FALSE,America/Anchorage,3,99720,1840023430
+Manley Hot Springs,Manley Hot Springs,AK,Alaska,2290,Yukon-Koyukuk,65.0187,-150.6453,35,1.2,shape,FALSE,FALSE,America/Anchorage,3,99756,1840023428
+Circle,Circle,AK,Alaska,2290,Yukon-Koyukuk,65.7936,-144.1813,29,0.3,shape,FALSE,FALSE,America/Anchorage,3,99733,1840023435
+Evansville,Evansville,AK,Alaska,2290,Yukon-Koyukuk,66.9206,-151.4201,17,0,shape,FALSE,FALSE,America/Anchorage,3,99726,1840023546
+Lake Minchumina,Lake Minchumina,AK,Alaska,2290,Yukon-Koyukuk,63.7981,-152.3446,15,0,shape,FALSE,FALSE,America/Anchorage,3,99757,1840023426
+Wiseman,Wiseman,AK,Alaska,2290,Yukon-Koyukuk,67.437,-150.1334,13,0,shape,FALSE,FALSE,America/Anchorage,3,99701,1840023442
+Livengood,Livengood,AK,Alaska,2290,Yukon-Koyukuk,65.4817,-148.4171,9,0,shape,FALSE,FALSE,America/Anchorage,3,99790,1840023427
+Stevens Village,Stevens Village,AK,Alaska,2290,Yukon-Koyukuk,66.025,-149.0802,9,1.3,shape,FALSE,FALSE,America/Anchorage,3,99774,1840023439
+Four Mile Road,Four Mile Road,AK,Alaska,2290,Yukon-Koyukuk,64.6045,-149.1223,4,1.3,shape,FALSE,TRUE,America/Anchorage,5,99760,1840075076
+Birch Creek,Birch Creek,AK,Alaska,2290,Yukon-Koyukuk,66.2686,-145.8699,3,0.6,shape,FALSE,FALSE,America/Anchorage,3,99730,1840023530
+Bettles,Bettles,AK,Alaska,2290,Yukon-Koyukuk,66.9088,-151.5362,2,0.6,shape,FALSE,TRUE,America/Anchorage,3,99726,1840023445
+Flat,Flat,AK,Alaska,2290,Yukon-Koyukuk,62.4415,-158.0405,0,0,shape,FALSE,FALSE,America/Anchorage,3,99503,1840023425
+Jackson,Jackson,AL,Alabama,1025,Clarke,31.5318,-87.8915,4774,116.8,shape,FALSE,TRUE,America/Chicago,3,36545,1840014935
+Thomasville,Thomasville,AL,Alabama,1025,Clarke,31.911,-87.7419,3653,171.4,shape,FALSE,TRUE,America/Chicago,3,36784,1840015849
+Grove Hill,Grove Hill,AL,Alabama,1025,Clarke,31.7006,-87.7748,2069,102.3,shape,FALSE,TRUE,America/Chicago,4,36451,1840005924
+Fulton,Fulton,AL,Alabama,1025,Clarke,31.7916,-87.7396,446,51.5,shape,FALSE,TRUE,America/Chicago,4,36446 36451,1840002425
+Whatley,Whatley,AL,Alabama,1025,Clarke,31.6463,-87.7108,315,83.4,shape,FALSE,FALSE,America/Chicago,3,36482,1840025933
+Coffeeville,Coffeeville,AL,Alabama,1025,Clarke,31.7666,-88.0861,240,28.2,shape,FALSE,TRUE,America/Chicago,3,36524,1840017049
+Carlton,Carlton,AL,Alabama,1025,Clarke,31.343,-87.8378,54,4.9,shape,FALSE,FALSE,America/Chicago,3,36545,1840025932
+Rockville,Rockville,AL,Alabama,1025,Clarke,31.4058,-87.8442,0,2.5,shape,FALSE,FALSE,America/Chicago,3,36545,1840027002
+Lineville,Lineville,AL,Alabama,1027,Clay,33.3129,-85.7508,2598,99.9,shape,FALSE,TRUE,America/Chicago,4,36266,1840008076
+Ashland,Ashland,AL,Alabama,1027,Clay,33.2703,-85.8337,1741,88.3,shape,FALSE,TRUE,America/Chicago,4,36251,1840006738
+Hollins,Hollins,AL,Alabama,1027,Clay,33.1214,-86.129,758,31.5,shape,FALSE,FALSE,America/Chicago,3,35072,1840022973
+Millerville,Millerville,AL,Alabama,1027,Clay,33.1926,-85.9302,376,22.4,shape,FALSE,FALSE,America/Chicago,3,35072 36267 36251,1840022974
+Delta,Delta,AL,Alabama,1027,Clay,33.447,-85.6746,158,5.9,shape,FALSE,FALSE,America/Chicago,3,36258,1840022972
+Heflin,Heflin,AL,Alabama,1029,Cleburne,33.647,-85.5698,3416,82.7,shape,FALSE,TRUE,America/Chicago,4,36264,1840007380
+Hollis Crossroads,Hollis Crossroads,AL,Alabama,1029,Cleburne,33.5231,-85.6437,676,21.5,shape,FALSE,FALSE,America/Chicago,3,36264 36258,1840022933
+Ranburne,Ranburne,AL,Alabama,1029,Cleburne,33.5259,-85.339,560,123.7,shape,FALSE,TRUE,America/Chicago,3,36273,1840017996
+Fruithurst,Fruithurst,AL,Alabama,1029,Cleburne,33.7295,-85.4313,403,166.4,shape,FALSE,TRUE,America/Chicago,4,36262,1840002170
+Edwardsville,Edwardsville,AL,Alabama,1029,Cleburne,33.8409,-85.4523,183,5.6,shape,FALSE,TRUE,America/Chicago,4,36262 36272 36261,1840007129
+Enterprise,Enterprise,AL,Alabama,1031,Coffee,31.3275,-85.8463,28242,351.3,shape,FALSE,TRUE,America/Chicago,3,36330 36331,1840001548
+Elba,Elba,AL,Alabama,1031,Coffee,31.4172,-86.0759,3449,97.5,shape,FALSE,TRUE,America/Chicago,4,36323,1840001532
+New Brockton,New Brockton,AL,Alabama,1031,Coffee,31.3785,-85.9228,1210,54.7,shape,FALSE,TRUE,America/Chicago,3,36351,1840017091
+Kinston,Kinston,AL,Alabama,1031,Coffee,31.22,-86.1705,793,61.9,shape,FALSE,TRUE,America/Chicago,3,36467 36453,1840017090
+Muscle Shoals,Muscle Shoals,AL,Alabama,1033,Colbert,34.7432,-87.6343,15969,330.4,shape,FALSE,TRUE,America/Chicago,3,35661 35674 35662,1840014657
+Sheffield,Sheffield,AL,Alabama,1033,Colbert,34.757,-87.6977,9305,495.6,shape,FALSE,TRUE,America/Chicago,3,35660,1840015537
+Tuscumbia,Tuscumbia,AL,Alabama,1033,Colbert,34.7204,-87.7035,8977,353.8,shape,FALSE,TRUE,America/Chicago,3,35674,1840005567
+Cherokee,Cherokee,AL,Alabama,1033,Colbert,34.7577,-87.967,911,152.6,shape,FALSE,TRUE,America/Chicago,3,35616,1840016548
+Littleville,Littleville,AL,Alabama,1033,Colbert,34.595,-87.6719,873,73.7,shape,FALSE,TRUE,America/Chicago,3,35674 35654,1840016547
+Leighton,Leighton,AL,Alabama,1033,Colbert,34.6941,-87.5282,687,141.2,shape,FALSE,TRUE,America/Chicago,3,35646,1840016546
+Evergreen,Evergreen,AL,Alabama,1035,Conecuh,31.4342,-86.9723,3504,70.2,shape,FALSE,TRUE,America/Chicago,4,36401,1840001842
+Castleberry,Castleberry,AL,Alabama,1035,Conecuh,31.3001,-87.0269,401,96.1,shape,FALSE,TRUE,America/Chicago,3,36432,1840017079
+Repton,Repton,AL,Alabama,1035,Conecuh,31.4096,-87.2394,329,177.5,shape,FALSE,TRUE,America/Chicago,3,36475,1840018171
+Stewartville,Stewartville,AL,Alabama,1037,Coosa,33.0725,-86.2658,1804,28.9,shape,FALSE,FALSE,America/Chicago,3,35151 35183,1840023022
+Goodwater,Goodwater,AL,Alabama,1037,Coosa,33.0608,-86.0516,1172,81.8,shape,FALSE,TRUE,America/Chicago,4,35072,1840007377
+Rockford,Rockford,AL,Alabama,1037,Coosa,32.8895,-86.215,986,103.4,shape,FALSE,TRUE,America/Chicago,4,35136,1840005393
+Nixburg,Nixburg,AL,Alabama,1037,Coosa,32.864,-86.0976,438,19.7,shape,FALSE,FALSE,America/Chicago,3,35010 35089,1840042839
+Ray,Ray,AL,Alabama,1037,Coosa,32.8795,-86.0388,399,19,shape,FALSE,FALSE,America/Chicago,3,35010,1840023021
+Weogufka,Weogufka,AL,Alabama,1037,Coosa,33.0219,-86.3096,308,19.4,shape,FALSE,FALSE,America/Chicago,3,35151 35183,1840023023
+Hissop,Hissop,AL,Alabama,1037,Coosa,32.8815,-86.1285,208,7.7,shape,FALSE,FALSE,America/Chicago,3,35136 35089,1840023019
+Kellyton,Kellyton,AL,Alabama,1037,Coosa,32.9791,-86.0358,126,69.9,shape,FALSE,TRUE,America/Chicago,3,35089,1840016916
+Equality,Equality,AL,Alabama,1037,Coosa,32.7634,-86.106,67,5.6,shape,FALSE,FALSE,America/Chicago,3,36026,1840041100
+Hanover,Hanover,AL,Alabama,1037,Coosa,33.0029,-86.199,61,3.4,shape,FALSE,FALSE,America/Chicago,3,35072 35136,1840043375
+Andalusia,Andalusia,AL,Alabama,1039,Covington,31.3102,-86.4781,8764,171.3,shape,FALSE,TRUE,America/Chicago,4,36420 36421,1840004591
+Opp,Opp,AL,Alabama,1039,Covington,31.2848,-86.257,6671,104.5,shape,FALSE,TRUE,America/Chicago,3,36467,1840014960
+Florala,Florala,AL,Alabama,1039,Covington,31.0176,-86.3138,1779,66.4,shape,FALSE,TRUE,America/Chicago,4,36442,1840007209
+River Falls,River Falls,AL,Alabama,1039,Covington,31.3525,-86.5412,603,31.1,shape,FALSE,TRUE,America/Chicago,3,36474 36476 36421,1840018177
+Babbie,Babbie,AL,Alabama,1039,Covington,31.3022,-86.3229,506,17.3,shape,FALSE,TRUE,America/Chicago,3,36467 36421,1840015865
+Red Level,Red Level,AL,Alabama,1039,Covington,31.4055,-86.6084,462,72.9,shape,FALSE,TRUE,America/Chicago,3,36474,1840018176
+Horn Hill,Horn Hill,AL,Alabama,1039,Covington,31.2382,-86.3211,291,48.2,shape,FALSE,TRUE,America/Chicago,3,36467,1840017093
+Heath,Heath,AL,Alabama,1039,Covington,31.3579,-86.4673,274,127.1,shape,FALSE,TRUE,America/Chicago,3,36421,1840015867
+Lockhart,Lockhart,AL,Alabama,1039,Covington,31.0128,-86.3505,264,71,shape,FALSE,TRUE,America/Chicago,3,36442 36455,1840017095
+Carolina,Carolina,AL,Alabama,1039,Covington,31.2337,-86.5227,255,87.8,shape,FALSE,TRUE,America/Chicago,3,36420,1840015866
+Sanford,Sanford,AL,Alabama,1039,Covington,31.3007,-86.3976,235,22.7,shape,FALSE,TRUE,America/Chicago,3,36420 36421,1840018178
+Gantt,Gantt,AL,Alabama,1039,Covington,31.4092,-86.4842,143,103.4,shape,FALSE,TRUE,America/Chicago,4,36038 36421,1840002554
+Onycha,Onycha,AL,Alabama,1039,Covington,31.2246,-86.2785,139,56.1,shape,FALSE,TRUE,America/Chicago,3,36467,1840017098
+Libertyville,Libertyville,AL,Alabama,1039,Covington,31.2428,-86.46,70,33.4,shape,FALSE,TRUE,America/Chicago,3,36420,1840017094
+Luverne,Luverne,AL,Alabama,1041,Crenshaw,31.7186,-86.2687,2716,67.7,shape,FALSE,TRUE,America/Chicago,4,36049,1840004042
+Brantley,Brantley,AL,Alabama,1041,Crenshaw,31.5823,-86.2569,966,129.5,shape,FALSE,TRUE,America/Chicago,3,36009,1840015844
+Rutledge,Rutledge,AL,Alabama,1041,Crenshaw,31.7241,-86.302,473,27.1,shape,FALSE,TRUE,America/Chicago,4,36049,1840005396
+Dozier,Dozier,AL,Alabama,1041,Crenshaw,31.5031,-86.3694,450,60.7,shape,FALSE,TRUE,America/Chicago,3,36028,1840017043
+Glenwood,Glenwood,AL,Alabama,1041,Crenshaw,31.6675,-86.173,221,134.2,shape,FALSE,TRUE,America/Chicago,4,36035 36034,1840003300
+Petrey,Petrey,AL,Alabama,1041,Crenshaw,31.8495,-86.2057,47,31.6,shape,FALSE,TRUE,America/Chicago,3,36049 36062,1840017045
+Cullman,Cullman,AL,Alabama,1043,Cullman,34.1775,-86.8407,17892,280.1,shape,FALSE,TRUE,America/Chicago,3,35058 35057 35055 35056,1840001354
+Hanceville,Hanceville,AL,Alabama,1043,Cullman,34.0632,-86.7645,3174,298.3,shape,FALSE,TRUE,America/Chicago,3,35077,1840013642
+Good Hope,Good Hope,AL,Alabama,1043,Cullman,34.1102,-86.8662,2463,141.2,shape,FALSE,TRUE,America/Chicago,4,35057 35055 35077,1840003328
+Baileyton,Baileyton,AL,Alabama,1043,Cullman,34.2609,-86.6083,1114,74.3,shape,FALSE,TRUE,America/Chicago,3,35019,1840015588
+Holly Pond,Holly Pond,AL,Alabama,1043,Cullman,34.1696,-86.6125,819,82.6,shape,FALSE,TRUE,America/Chicago,3,35055 35083,1840016698
+Fairview,Fairview,AL,Alabama,1043,Cullman,34.2501,-86.6846,717,129,shape,FALSE,TRUE,America/Chicago,4,35058,1840002078
+Joppa,Joppa,AL,Alabama,1043,Cullman,34.2982,-86.5506,681,126.3,shape,FALSE,FALSE,America/Chicago,3,35016 35087,1840025862
+Dodge City,Dodge City,AL,Alabama,1043,Cullman,34.0445,-86.8853,660,62,shape,FALSE,TRUE,America/Chicago,3,35057 35077,1840016700
+Berlin,Berlin,AL,Alabama,1043,Cullman,34.1862,-86.7473,639,183.7,shape,FALSE,TRUE,America/Chicago,3,35058 35055,1840146895
+Garden City,Garden City,AL,Alabama,1043,Cullman,34.015,-86.7493,622,102.9,shape,FALSE,TRUE,America/Chicago,4,35077 35070,1840002685
+West Point,West Point,AL,Alabama,1043,Cullman,34.2394,-86.963,472,50.1,shape,FALSE,TRUE,America/Chicago,3,35057 35179,1840016704
+South Vinemont,South Vinemont,AL,Alabama,1043,Cullman,34.2349,-86.8642,440,257.6,shape,FALSE,TRUE,America/Chicago,3,35058 35179,1840017959
+East Point,East Point,AL,Alabama,1043,Cullman,34.1857,-86.7928,351,143.7,shape,FALSE,FALSE,America/Chicago,3,35055,1840025861
+Colony,Colony,AL,Alabama,1043,Cullman,33.9413,-86.9022,312,52.6,shape,FALSE,TRUE,America/Chicago,4,35077,1840073883
+Ozark,Ozark,AL,Alabama,1045,Dale,31.4508,-85.6473,14396,162.5,shape,FALSE,TRUE,America/Chicago,3,36360 36361,1840005283
+Fort Rucker,Fort Rucker,AL,Alabama,1045,Dale,31.3428,-85.7154,5912,203.1,shape,TRUE,TRUE,America/Chicago,3,36362,1840073838
+Daleville,Daleville,AL,Alabama,1045,Dale,31.2915,-85.7117,4912,139.9,shape,FALSE,TRUE,America/Chicago,3,36322,1840014955
+Midland City,Midland City,AL,Alabama,1045,Dale,31.3157,-85.4937,1901,123.8,shape,FALSE,TRUE,America/Chicago,3,36350,1840017084
+Level Plains,Level Plains,AL,Alabama,1045,Dale,31.3071,-85.7687,1826,224.2,shape,FALSE,TRUE,America/Chicago,3,36330 36322,1840017083
+Newton,Newton,AL,Alabama,1045,Dale,31.3423,-85.5893,1606,40.7,shape,FALSE,TRUE,America/Chicago,3,36350 36352 36360,1840017088
+Pinckard,Pinckard,AL,Alabama,1045,Dale,31.3173,-85.543,666,45.5,shape,FALSE,TRUE,America/Chicago,3,36371 36350,1840017089
+Ariton,Ariton,AL,Alabama,1045,Dale,31.5978,-85.7131,660,55.5,shape,FALSE,TRUE,America/Chicago,4,36311,1840004920
+Clayhatchee,Clayhatchee,AL,Alabama,1045,Dale,31.2434,-85.7136,637,105.7,shape,FALSE,TRUE,America/Chicago,3,36322,1840017086
+Grimes,Grimes,AL,Alabama,1045,Dale,31.2999,-85.4503,589,204.9,shape,FALSE,TRUE,America/Chicago,3,36303 36350,1840003500
+Napier Field,Napier Field,AL,Alabama,1045,Dale,31.3147,-85.455,405,333.8,shape,FALSE,TRUE,America/Chicago,3,36303,1840017085
+Selma,Selma,AL,Alabama,1047,Dallas,32.4166,-87.0336,18429,496.6,shape,FALSE,TRUE,America/Chicago,3,36703 36701 36702,1840008329
+Valley Grande,Valley Grande,AL,Alabama,1047,Dallas,32.4862,-87.0305,4137,41.8,shape,FALSE,TRUE,America/Chicago,3,36703 36701,1840015794
+Selmont-West Selmont,Selmont-West Selmont,AL,Alabama,1047,Dallas,32.3784,-87.0074,1995,218.5,shape,FALSE,TRUE,America/Chicago,3,36703 36701,1840035626
+Orrville,Orrville,AL,Alabama,1047,Dallas,32.3068,-87.2454,139,54,shape,FALSE,TRUE,America/Chicago,3,36767,1840016970
+Fort Payne,Fort Payne,AL,Alabama,1049,DeKalb,34.4559,-85.6965,14730,96.3,shape,FALSE,TRUE,America/Chicago,3,35967 35968,1840004822
+Rainsville,Rainsville,AL,Alabama,1049,DeKalb,34.4938,-85.8436,5466,94,shape,FALSE,TRUE,America/Chicago,3,35986,1840014658
+Henagar,Henagar,AL,Alabama,1049,DeKalb,34.6306,-85.7413,2436,42,shape,FALSE,TRUE,America/Chicago,3,35978,1840014659
+Collinsville,Collinsville,AL,Alabama,1049,DeKalb,34.2664,-85.8679,2044,266.9,shape,FALSE,TRUE,America/Chicago,3,35961,1840016553
+Crossville,Crossville,AL,Alabama,1049,DeKalb,34.2852,-85.9996,1920,74.8,shape,FALSE,TRUE,America/Chicago,3,35962,1840016554
+Sylvania,Sylvania,AL,Alabama,1049,DeKalb,34.5616,-85.8056,1848,108.2,shape,FALSE,TRUE,America/Chicago,3,35988 35968,1840016558
+Fyffe,Fyffe,AL,Alabama,1049,DeKalb,34.449,-85.9052,1327,112.3,shape,FALSE,TRUE,America/Chicago,4,35971,1840004830
+Geraldine,Geraldine,AL,Alabama,1049,DeKalb,34.3579,-86.0037,1266,101.3,shape,FALSE,TRUE,America/Chicago,4,35974,1840004919
+Powell,Powell,AL,Alabama,1049,DeKalb,34.5326,-85.8975,1029,86.1,shape,FALSE,TRUE,America/Chicago,3,35986 35971,1840017914
+Valley Head,Valley Head,AL,Alabama,1049,DeKalb,34.5558,-85.6224,833,92.4,shape,FALSE,TRUE,America/Chicago,3,35989,1840016559
+Pine Ridge,Pine Ridge,AL,Alabama,1049,DeKalb,34.4487,-85.7806,717,217.4,shape,FALSE,TRUE,America/Chicago,3,35968,1840016560
+Ider,Ider,AL,Alabama,1049,DeKalb,34.7026,-85.669,604,43.1,shape,FALSE,TRUE,America/Chicago,3,35981 35978,1840016550
+Shiloh,Shiloh,AL,Alabama,1049,DeKalb,34.4604,-85.8767,426,67.6,shape,FALSE,TRUE,America/Chicago,3,35986 35971,1840017915
+Hammondville,Hammondville,AL,Alabama,1049,DeKalb,34.5688,-85.6394,393,32.5,shape,FALSE,TRUE,America/Chicago,3,35989,1840016557
+Mentone,Mentone,AL,Alabama,1049,DeKalb,34.5655,-85.5846,340,29.4,shape,FALSE,TRUE,America/Chicago,3,35984,1840016552
+Millbrook,Millbrook,AL,Alabama,1051,Elmore,32.5027,-86.3737,16675,435.8,shape,FALSE,TRUE,America/Chicago,3,36022 36054,1840014877
+Wetumpka,Wetumpka,AL,Alabama,1051,Elmore,32.5406,-86.2053,7025,291.9,shape,FALSE,TRUE,America/Chicago,3,36093 36092,1840006013
+Redland,Redland,AL,Alabama,1051,Elmore,32.4754,-86.1375,5301,73.6,shape,FALSE,TRUE,America/Chicago,4,36093,1840037844
+Tallassee,Tallassee,AL,Alabama,1051,Elmore,32.5315,-85.8903,5199,163.6,shape,FALSE,TRUE,America/Chicago,3,36078,1840015790
+Holtville,Holtville,AL,Alabama,1051,Elmore,32.6314,-86.3268,4970,80.1,shape,FALSE,FALSE,America/Chicago,3,36092 36022,1840023043
+Emerald Mountain,Emerald Mountain,AL,Alabama,1051,Elmore,32.4396,-86.0857,3456,73.7,shape,FALSE,TRUE,America/Chicago,4,36093 36078,1840037820
+Deatsville,Deatsville,AL,Alabama,1051,Elmore,32.5864,-86.3917,2114,149.6,shape,FALSE,TRUE,America/Chicago,3,36022,1840016964
+Elmore,Elmore,AL,Alabama,1051,Elmore,32.5552,-86.3425,1572,82.1,shape,FALSE,TRUE,America/Chicago,3,36022 36025,1840016966
+Blue Ridge,Blue Ridge,AL,Alabama,1051,Elmore,32.501,-86.1839,1442,67.3,shape,FALSE,FALSE,America/Chicago,3,36093,1840013806
+Eclectic,Eclectic,AL,Alabama,1051,Elmore,32.6387,-86.0387,1274,111.2,shape,FALSE,TRUE,America/Chicago,3,36024,1840016965
+Coosada,Coosada,AL,Alabama,1051,Elmore,32.4984,-86.3279,1074,52.4,shape,FALSE,TRUE,America/Chicago,3,36020,1840016963
+Atmore,Atmore,AL,Alabama,1053,Escambia,31.0927,-87.4762,8734,163.7,shape,FALSE,TRUE,America/Chicago,3,36503 36502 36504,1840013888
+Brewton,Brewton,AL,Alabama,1053,Escambia,31.1113,-87.0737,5288,178.1,shape,FALSE,TRUE,America/Chicago,4,36426 36427,1840006146
+East Brewton,East Brewton,AL,Alabama,1053,Escambia,31.0906,-87.0556,3131,350.4,shape,FALSE,TRUE,America/Chicago,3,36426,1840013889
+Flomaton,Flomaton,AL,Alabama,1053,Escambia,31.0127,-87.2541,1728,147.7,shape,FALSE,TRUE,America/Chicago,4,36441,1840006309
+Riverview,Riverview,AL,Alabama,1053,Escambia,31.0587,-87.0709,198,46.2,shape,FALSE,TRUE,America/Chicago,3,36426,1840018196
+Pollard,Pollard,AL,Alabama,1053,Escambia,31.0235,-87.1736,136,42.4,shape,FALSE,TRUE,America/Chicago,4,36441,1840004074
+Gadsden,Gadsden,AL,Alabama,1055,Etowah,34.0086,-86.0157,34317,363.3,shape,FALSE,TRUE,America/Chicago,3,35901 35903 35904 35902,1840006332
+Rainbow City,Rainbow City,AL,Alabama,1055,Etowah,33.9336,-86.0922,10093,144.9,shape,FALSE,TRUE,America/Chicago,3,35906,1840014732
+Southside,Southside,AL,Alabama,1055,Etowah,33.9007,-86.0238,9253,177.8,shape,FALSE,TRUE,America/Chicago,3,35907,1840015604
+Attalla,Attalla,AL,Alabama,1055,Etowah,34.005,-86.1039,5872,324.7,shape,FALSE,TRUE,America/Chicago,3,35954,1840013655
+Glencoe,Glencoe,AL,Alabama,1055,Etowah,33.9447,-85.9322,5360,116.4,shape,FALSE,TRUE,America/Chicago,4,35903 35905,1840003257
+Hokes Bluff,Hokes Bluff,AL,Alabama,1055,Etowah,33.9902,-85.8639,4402,137.7,shape,FALSE,TRUE,America/Chicago,3,35903 35905,1840014733
+Carlisle-Rockledge,Carlisle-Rockledge,AL,Alabama,1055,Etowah,34.114,-86.1191,2472,60.3,shape,FALSE,TRUE,America/Chicago,4,35956 35954,1840037805
+Whitesboro,Whitesboro,AL,Alabama,1055,Etowah,34.1682,-86.0572,2150,47.7,shape,FALSE,FALSE,America/Chicago,3,35956,1840022891
+Sardis City,Sardis City,AL,Alabama,1055,Etowah,34.1749,-86.1125,1818,85.5,shape,FALSE,TRUE,America/Chicago,3,35956,1840017967
+Altoona,Altoona,AL,Alabama,1055,Etowah,34.0308,-86.3179,1444,107.7,shape,FALSE,TRUE,America/Chicago,4,35952,1840000720
+Lookout Mountain,Lookout Mountain,AL,Alabama,1055,Etowah,34.1091,-85.9585,1427,38.7,shape,FALSE,TRUE,America/Chicago,4,35904,1840075152
+Ballplay,Ballplay,AL,Alabama,1055,Etowah,34.0179,-85.7852,1391,25,shape,FALSE,FALSE,America/Chicago,3,35903 36272,1840022887
+Coats Bend,Coats Bend,AL,Alabama,1055,Etowah,34.0774,-85.8742,1119,48,shape,FALSE,TRUE,America/Chicago,4,35901,1840075147
+Egypt,Egypt,AL,Alabama,1055,Etowah,34.076,-86.1651,1107,40.5,shape,FALSE,FALSE,America/Chicago,3,35952 35956,1840022888
+Tidmore Bend,Tidmore Bend,AL,Alabama,1055,Etowah,34.0324,-85.9253,1036,42.6,shape,FALSE,TRUE,America/Chicago,4,35901,1840075168
+Walnut Grove,Walnut Grove,AL,Alabama,1055,Etowah,34.0641,-86.2863,901,67.2,shape,FALSE,TRUE,America/Chicago,3,35952 35990,1840016722
+New Union,New Union,AL,Alabama,1055,Etowah,34.1422,-86.2218,893,31.6,shape,FALSE,TRUE,America/Chicago,4,35956,1840075158
+Gallant,Gallant,AL,Alabama,1055,Etowah,34.0013,-86.2304,835,23.5,shape,FALSE,FALSE,America/Chicago,3,35972,1840022889
+Reece City,Reece City,AL,Alabama,1055,Etowah,34.0772,-86.0345,744,92.2,shape,FALSE,TRUE,America/Chicago,3,35954,1840017965
+Ivalee,Ivalee,AL,Alabama,1055,Etowah,34.0372,-86.1472,606,38,shape,FALSE,FALSE,America/Chicago,3,35954,1840022890
+Bristow Cove,Bristow Cove,AL,Alabama,1055,Etowah,34.1092,-86.241,485,16.6,shape,FALSE,TRUE,America/Chicago,4,35956,1840037800
+Ridgeville,Ridgeville,AL,Alabama,1055,Etowah,34.0569,-86.1029,80,53.6,shape,FALSE,TRUE,America/Chicago,3,35954,1840017966
+Fayette,Fayette,AL,Alabama,1057,Fayette,33.6943,-87.8307,4271,195.5,shape,FALSE,TRUE,America/Chicago,4,35555,1840006295
