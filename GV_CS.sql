@@ -2,27 +2,35 @@
 /* This table is to aggregate tne victims table and keep only the focused attributes */
 CREATE TABLE IF NOT EXISTS Case_Study.Victim_Summary_2022 AS
 	SELECT
-		Incident_Date ,State, City_Or_County,
+			DISTINCT State, City_or_County ,
 		sum(__Victims_Injured) as Injured,
 		sum(__Victims_Killed) as Killed,
 		sum(__Victims_Injured)+sum(__Victims_Killed) as Total
 	FROM Case_Study.victims as vic
-	group by Incident_Date, State, City_Or_County;
+	group by State, City_or_County;
+
+SELECT
+		DISTINCT State, City_or_County ,
+	sum(__Victims_Injured) as Injured,
+	sum(__Victims_Killed) as Killed,
+	sum(__Victims_Injured)+sum(__Victims_Killed) as Total
+FROM Case_Study.victims as vic
+
+group by State, `City_Or_County`;
 
 /*An executable to exam the new table for errors*/
 SELECT *
 FROM Case_Study.Victim_Summary_2022
-WHERE State = 'Texas' AND City_Or_County = 'Houston';
+WHERE `State` = 'Texas';
 
 /*An executable to the original table for comparison*/
-SELECT State, sum(__Victims_Killed)
+SELECT *
 FROM Case_Study.victims
-WHERE State = 'Texas' AND City_Or_County = 'Houston';
+WHERE State = 'Texas';
 
 /*An executable to the uscities*/
 SELECT *
-FROM Case_Study.uscities
-WHERE state_id = 'Ohio' AND city = 'Dayton';
+FROM Case_Study.uscities;
 
 
 /*This executable is aggregate by state and look at the count*/
@@ -40,12 +48,15 @@ CREATE TABLE IF NOT EXISTS Case_Study.violence_summary_2022 AS
 	FROM Case_Study.Victim_Summary_2022 as vic_sum
 	LEFT JOIN Case_Study.uscities as usc 
 	ON 
-		(vic_sum.City_Or_County = usc.city);
+		(vic_sum.State = usc.state_name);
+
+DROP TABLE uscities;
 
 DROP TABLE violence_summary_2022;
 
 SELECT *
-FROM violence_summary_2022;
+FROM violence_summary_2022
+WHERE `State` = 'Texas';
 
 SELECT *
 FROM violence_summary_2022
